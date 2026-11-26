@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-26",
  "fuente": "Cámara de Diputados del H. Congreso de la Unión — Leyes Federales Vigentes",
  "aviso": "Textos de consulta. El único texto con validez oficial es el publicado en el Diario Oficial de la Federación.",
  "ambitos": [
@@ -24,13 +24,14 @@
    "titulo": "Constitución Política de los Estados Unidos Mexicanos",
    "ambito": "Federal",
    "categoria": "Constitución",
-   "fecha": "2026-03-03",
+   "fecha": "2026-10-07",
    "tipoFecha": "ultima_reforma",
-   "version": "20260303",
+   "version": "20261007",
    "archivo": "federal/constitucion-politica-de-los-estados-unidos-mexicanos.epub",
-   "bytes": 279776,
-   "sha256": "f7ceeedefa0b35aae42556bcc0c7e31e21bd48501ec042a46412ccc53fc4ba02",
-   "articulos": 136
+   "bytes": 287549,
+   "sha256": "a3cf1853606c085af70e876d915ceb2cffd1d692bf9094e38909fb8ee7eb3775",
+   "articulos": 136,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
   },
   {
    "id": "federal/codigo-civil-federal",
@@ -43,7 +44,8 @@
    "archivo": "federal/codigo-civil-federal.epub",
    "bytes": 323556,
    "sha256": "7fd196360b099132dc1aa6971787bcb9c7106fdccc93e3b928fd1209989e6357",
-   "articulos": 3107
+   "articulos": 3107,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf"
   },
   {
    "id": "federal/codigo-federal-de-procedimientos-civiles",
@@ -56,20 +58,23 @@
    "archivo": "federal/codigo-federal-de-procedimientos-civiles.epub",
    "bytes": 119083,
    "sha256": "70e7ff059a0b576a4ec82e06347ac1311ccd8af0dcdcd28d54813ef86a66e8d0",
-   "articulos": 631
+   "articulos": 631,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+   "abrogada": true
   },
   {
    "id": "federal/codigo-fiscal-de-la-federacion",
    "titulo": "Código Fiscal de la Federación",
    "ambito": "Federal",
    "categoria": "Códigos",
-   "fecha": "2025-11-14",
+   "fecha": "2026-04-09",
    "tipoFecha": "ultima_reforma",
-   "version": "20251114",
+   "version": "20260409",
    "archivo": "federal/codigo-fiscal-de-la-federacion.epub",
-   "bytes": 288171,
-   "sha256": "8618adfdc6d032d847c1985cafad483a6bcb4af30083d3f514693ed97f7a34d7",
-   "articulos": 422
+   "bytes": 288036,
+   "sha256": "ba930ead64fc29f842fd446692b0afa00f3269e1ab14d16a95d41d3efed500a9",
+   "articulos": 422,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf"
   },
   {
    "id": "federal/codigo-militar-de-procedimientos-penales",
@@ -82,7 +87,8 @@
    "archivo": "federal/codigo-militar-de-procedimientos-penales.epub",
    "bytes": 130897,
    "sha256": "c4f5bffbcd3a6980be150af07d9d730aad7a7a464296a542ea72a6839af11f42",
-   "articulos": 455
+   "articulos": 455,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf"
   },
   {
    "id": "federal/codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -95,7 +101,8 @@
    "archivo": "federal/codigo-nacional-de-procedimientos-civiles-y-familiares.epub",
    "bytes": 276859,
    "sha256": "367c38fd8215b3014400f71d37e744875545a0781ba1178cd0c74a8e34eadfa8",
-   "articulos": 1193
+   "articulos": 1193,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf"
   },
   {
    "id": "federal/codigo-nacional-de-procedimientos-penales",
@@ -108,33 +115,36 @@
    "archivo": "federal/codigo-nacional-de-procedimientos-penales.epub",
    "bytes": 152997,
    "sha256": "90acbc767026ca317472c7ba80ce0d1ffb82523d769b08a0e1d4d541fe071dd9",
-   "articulos": 491
+   "articulos": 491,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf"
   },
   {
    "id": "federal/codigo-penal-federal",
    "titulo": "Código Penal Federal",
    "ambito": "Federal",
    "categoria": "Códigos",
-   "fecha": "2025-11-28",
+   "fecha": "2026-11-13",
    "tipoFecha": "ultima_reforma",
-   "version": "20251128",
+   "version": "20261113",
    "archivo": "federal/codigo-penal-federal.epub",
-   "bytes": 291031,
-   "sha256": "bbe3427d66b27dec1040f31793a5224665153ac792adfb4c7ba22e9ea17799c0",
-   "articulos": 556
+   "bytes": 296278,
+   "sha256": "47dbebc2ebfda9482265f8cae63246cd12a0155972559fb16794f0923e7e4222",
+   "articulos": 563,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf"
   },
   {
    "id": "federal/codigo-de-comercio",
    "titulo": "Código de Comercio",
    "ambito": "Federal",
    "categoria": "Códigos",
-   "fecha": "2025-11-14",
+   "fecha": "2026-02-18",
    "tipoFecha": "ultima_reforma",
-   "version": "20251114",
+   "version": "20260218",
    "archivo": "federal/codigo-de-comercio.epub",
-   "bytes": 205879,
-   "sha256": "2b8c78e15d82cc0f8544996f674c1c8bb32d9289dbc12eeb9bc8aa397d1ab927",
-   "articulos": 1627
+   "bytes": 205772,
+   "sha256": "6755e33d1c7047ec11211d63375faa78accbdf81ca6a4b12aa4afdf5ae6ceaf6",
+   "articulos": 1627,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf"
   },
   {
    "id": "federal/codigo-de-justicia-militar",
@@ -147,7 +157,8 @@
    "archivo": "federal/codigo-de-justicia-militar.epub",
    "bytes": 114875,
    "sha256": "686eff40151d5651f45a2fbcf703b3a8ef7deda49260a32cc2c2410a3e3d7119",
-   "articulos": 954
+   "articulos": 954,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf"
   },
   {
    "id": "federal/ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
@@ -160,7 +171,8 @@
    "archivo": "federal/ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias.epub",
    "bytes": 61582,
    "sha256": "0bf58c477a5b6ed092cfa3ebc1d04be2db498d7b8d7dfdd77f9d84bf18064496",
-   "articulos": 108
+   "articulos": 108,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf"
   },
   {
    "id": "federal/ley-general-de-aguas",
@@ -173,7 +185,8 @@
    "archivo": "federal/ley-general-de-aguas.epub",
    "bytes": 16672,
    "sha256": "b6d66ef28848c48e5c7ec4f09a11818430614377cac96885d59aef4a785eabe5",
-   "articulos": 46
+   "articulos": 46,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf"
   },
   {
    "id": "federal/ley-general-de-archivos",
@@ -186,7 +199,8 @@
    "archivo": "federal/ley-general-de-archivos.epub",
    "bytes": 38027,
    "sha256": "2c7726b3d6dc3fa023674cfe23c7017239c2820bcb17dd8ed632b4824f406961",
-   "articulos": 124
+   "articulos": 124,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf"
   },
   {
    "id": "federal/ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urban",
@@ -199,7 +213,8 @@
    "archivo": "federal/ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urban.epub",
    "bytes": 52992,
    "sha256": "d4568802470f2c32fecce62ab6a8bd26e986564a04df984e2cb52f712df0f77d",
-   "articulos": 121
+   "articulos": 121,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf"
   },
   {
    "id": "federal/ley-general-de-bibliotecas",
@@ -212,7 +227,8 @@
    "archivo": "federal/ley-general-de-bibliotecas.epub",
    "bytes": 14540,
    "sha256": "c6d08e0818ee7865d11c04a4b4f2ef4c950cf8586c289d6fb03728ff5a1f6b2b",
-   "articulos": 46
+   "articulos": 46,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf"
   },
   {
    "id": "federal/ley-general-de-bienes-nacionales",
@@ -225,7 +241,8 @@
    "archivo": "federal/ley-general-de-bienes-nacionales.epub",
    "bytes": 68176,
    "sha256": "f96f29804e962c6937ee45b67bce19cda7aa43400f067b07baf09e25899629f5",
-   "articulos": 159
+   "articulos": 159,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf"
   },
   {
    "id": "federal/ley-general-de-cambio-climatico",
@@ -238,7 +255,8 @@
    "archivo": "federal/ley-general-de-cambio-climatico.epub",
    "bytes": 53754,
    "sha256": "adb8d94575d340ca70b443c9c416cbc6bc8aabf0e1939fc4f648c07d69e6baaf",
-   "articulos": 117
+   "articulos": 117,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf"
   },
   {
    "id": "federal/ley-general-de-comunicacion-social",
@@ -251,20 +269,22 @@
    "archivo": "federal/ley-general-de-comunicacion-social.epub",
    "bytes": 25556,
    "sha256": "ddd5a2605787353f53918d767c2b322f5098fb9e917a1ba1d923997970600496",
-   "articulos": 46
+   "articulos": 46,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf"
   },
   {
    "id": "federal/ley-general-de-contabilidad-gubernamental",
    "titulo": "Ley General de Contabilidad Gubernamental",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2025-07-16",
+   "fecha": "2026-05-14",
    "tipoFecha": "ultima_reforma",
-   "version": "20250716",
+   "version": "20260514",
    "archivo": "federal/ley-general-de-contabilidad-gubernamental.epub",
-   "bytes": 44748,
-   "sha256": "1b4effeb1073bc7a6b84fca28c56b475a4bc979af39f6b7a6831ab61dbd1659b",
-   "articulos": 88
+   "bytes": 45246,
+   "sha256": "da2193cc238b10c2caf3ca9dd35b95a6fcc335e6ea9768a16da28a223c7cb915",
+   "articulos": 88,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf"
   },
   {
    "id": "federal/ley-general-de-cultura-fisica-y-deporte",
@@ -277,7 +297,8 @@
    "archivo": "federal/ley-general-de-cultura-fisica-y-deporte.epub",
    "bytes": 59729,
    "sha256": "b57f0e8048bc0dbe65dc7df9e323f06c4aa0c5e07d1648ff301a137018af1a77",
-   "articulos": 158
+   "articulos": 158,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf"
   },
   {
    "id": "federal/ley-general-de-cultura-y-derechos-culturales",
@@ -290,7 +311,8 @@
    "archivo": "federal/ley-general-de-cultura-y-derechos-culturales.epub",
    "bytes": 14572,
    "sha256": "38e91c7bb0a2175e25aad8e5620474b2df8c7b47910033ef1c1621ddb3c7fbbd",
-   "articulos": 43
+   "articulos": 43,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf"
   },
   {
    "id": "federal/ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas",
@@ -303,7 +325,8 @@
    "archivo": "federal/ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas.epub",
    "bytes": 15840,
    "sha256": "3d435a990ced42a18c097c01eaefb43e4709582d86e76c3d30ff4edf194b98f4",
-   "articulos": 27
+   "articulos": 27,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"
   },
   {
    "id": "federal/ley-general-de-desarrollo-forestal-sustentable",
@@ -316,7 +339,8 @@
    "archivo": "federal/ley-general-de-desarrollo-forestal-sustentable.epub",
    "bytes": 69969,
    "sha256": "3eba62d59b5f71a3897119c5ea9b3e9a2e3613c506604b5b5e4dbc873150b4c9",
-   "articulos": 175
+   "articulos": 175,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"
   },
   {
    "id": "federal/ley-general-de-desarrollo-social",
@@ -329,7 +353,8 @@
    "archivo": "federal/ley-general-de-desarrollo-social.epub",
    "bytes": 26769,
    "sha256": "86208dfefadfd1db0a186d8432ff1bb3df142704f4cab1c6053df2f2c92d42a7",
-   "articulos": 88
+   "articulos": 88,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf"
   },
   {
    "id": "federal/ley-general-de-economia-circular",
@@ -342,7 +367,8 @@
    "archivo": "federal/ley-general-de-economia-circular.epub",
    "bytes": 22320,
    "sha256": "48b98ad3473d2f33b021bd24e575d174a563b8897aad9c072e18705f39e4eb5c",
-   "articulos": 41
+   "articulos": 41,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf"
   },
   {
    "id": "federal/ley-general-de-educacion",
@@ -355,7 +381,8 @@
    "archivo": "federal/ley-general-de-educacion.epub",
    "bytes": 74180,
    "sha256": "2f933e8aec36e126bd9ae939f8f196289de872d31f43dc46b2a648985e0d383e",
-   "articulos": 184
+   "articulos": 184,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf"
   },
   {
    "id": "federal/ley-general-de-educacion-superior",
@@ -368,20 +395,22 @@
    "archivo": "federal/ley-general-de-educacion-superior.epub",
    "bytes": 42182,
    "sha256": "67bebee0f9fc748dc59af8f2e5267e02d751d7f8c9dc044c52487303c6f94544",
-   "articulos": 78
+   "articulos": 78,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf"
   },
   {
    "id": "federal/ley-general-de-instituciones-y-procedimientos-electorales",
    "titulo": "Ley General de Instituciones y Procedimientos Electorales",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2024-10-14",
+   "fecha": "2026-06-02",
    "tipoFecha": "ultima_reforma",
-   "version": "20241014",
+   "version": "20260602",
    "archivo": "federal/ley-general-de-instituciones-y-procedimientos-electorales.epub",
-   "bytes": 215516,
-   "sha256": "c325d0cd489e6ae09c199dabfe07a9d9da407373ed91b6031c9510385b903db4",
-   "articulos": 540
+   "bytes": 217028,
+   "sha256": "1f4a2e060e0d209f9894a0456a15a5c1b1e33ebc00a99581523d7242da061d49",
+   "articulos": 543,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf"
   },
   {
    "id": "federal/ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
@@ -394,7 +423,8 @@
    "archivo": "federal/ley-general-de-mecanismos-alternativos-de-solucion-de-controversias.epub",
    "bytes": 35571,
    "sha256": "2bea9886d937dbebcc736bbd6e37caadcc3db86ab0020e6200673b75fcafaf26",
-   "articulos": 145
+   "articulos": 145,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf"
   },
   {
    "id": "federal/ley-general-de-movilidad-y-seguridad-vial",
@@ -407,7 +437,8 @@
    "archivo": "federal/ley-general-de-movilidad-y-seguridad-vial.epub",
    "bytes": 43853,
    "sha256": "440230bdc4db3ddd18e69a6170deb522d5e37edc323f34e3f5b47c92837f98be",
-   "articulos": 83
+   "articulos": 83,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf"
   },
   {
    "id": "federal/ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -420,20 +451,22 @@
    "archivo": "federal/ley-general-de-organizaciones-y-actividades-auxiliares-del-credito.epub",
    "bytes": 115232,
    "sha256": "3f30869443788ee0263872129a7e687c9f6be434429a8e0cd36f0595f8470716",
-   "articulos": 265
+   "articulos": 265,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf"
   },
   {
    "id": "federal/ley-general-de-partidos-politicos",
    "titulo": "Ley General de Partidos Políticos",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2023-03-02",
+   "fecha": "2023-11-24",
    "tipoFecha": "ultima_reforma",
-   "version": "20230302",
+   "version": "20231124",
    "archivo": "federal/ley-general-de-partidos-politicos.epub",
-   "bytes": 64746,
-   "sha256": "a19ebc1de8a89bbfb748d2c98a4a1c56afbec647a917d513badcdd39f4f5c3cd",
-   "articulos": 98
+   "bytes": 64662,
+   "sha256": "3cd8b1bb9fab6ca9e916fb79f401a42914cba84e49aafd14483720da1b8f6d84",
+   "articulos": 98,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf"
   },
   {
    "id": "federal/ley-general-de-pesca-y-acuacultura-sustentables",
@@ -446,7 +479,8 @@
    "archivo": "federal/ley-general-de-pesca-y-acuacultura-sustentables.epub",
    "bytes": 60893,
    "sha256": "7b3f96e3a98456656c57a2437e95ff91945e6cb4c9f960d12c8188c7b19f2789",
-   "articulos": 168
+   "articulos": 168,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf"
   },
   {
    "id": "federal/ley-general-de-poblacion",
@@ -459,7 +493,8 @@
    "archivo": "federal/ley-general-de-poblacion.epub",
    "bytes": 21866,
    "sha256": "cd651ffc001a7b51185da6aa381638a5bf88af3e0bac66a2d9afd07f7d5e5c82",
-   "articulos": 165
+   "articulos": 165,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf"
   },
   {
    "id": "federal/ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-int",
@@ -472,7 +507,8 @@
    "archivo": "federal/ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-int.epub",
    "bytes": 22945,
    "sha256": "2eee1680bf9644560e109d464ba1f7120d1315daee964b15376fead3e3849a8e",
-   "articulos": 77
+   "articulos": 77,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf"
   },
   {
    "id": "federal/ley-general-de-proteccion-civil",
@@ -485,7 +521,8 @@
    "archivo": "federal/ley-general-de-proteccion-civil.epub",
    "bytes": 41982,
    "sha256": "878439a95778ae75b634a346c4b9c9511c83b67ee1270850b69b13faac014f13",
-   "articulos": 95
+   "articulos": 95,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf"
   },
   {
    "id": "federal/ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados",
@@ -498,7 +535,8 @@
    "archivo": "federal/ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados.epub",
    "bytes": 40388,
    "sha256": "744bd7ad1fe512c9153d18058a4e2d7c4bca9f8fcce3c8d317aa51f83eb0338c",
-   "articulos": 66
+   "articulos": 66,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf"
   },
   {
    "id": "federal/ley-general-de-responsabilidades-administrativas",
@@ -511,20 +549,22 @@
    "archivo": "federal/ley-general-de-responsabilidades-administrativas.epub",
    "bytes": 69501,
    "sha256": "eb9c771b71fecf5b505b55cadf651b13a3169b7172354aad12c101ea15ee7867",
-   "articulos": 238
+   "articulos": 238,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf"
   },
   {
    "id": "federal/ley-general-de-salud",
    "titulo": "Ley General de Salud",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "1984-02-07",
+   "fecha": "2026-01-15",
    "tipoFecha": "publicacion",
-   "version": "19840207",
+   "version": "20260115",
    "archivo": "federal/ley-general-de-salud.epub",
-   "bytes": 257158,
-   "sha256": "d3484753dd0d3f739a59e1825d729a4376c1af54f8fa669421bb52d049cd49a3",
-   "articulos": 733
+   "bytes": 257226,
+   "sha256": "e662f9f21e9c3b2d46cfc480fe3a488120cbb265757ef98fb0bb974123fad89f",
+   "articulos": 733,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf"
   },
   {
    "id": "federal/ley-general-de-sociedades-cooperativas",
@@ -537,20 +577,22 @@
    "archivo": "federal/ley-general-de-sociedades-cooperativas.epub",
    "bytes": 34787,
    "sha256": "beb584809449e06eb3d55adbf140b9c78b1cd8beb7e578b29e0cf4b2157a51c3",
-   "articulos": 124
+   "articulos": 124,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf"
   },
   {
    "id": "federal/ley-general-de-sociedades-mercantiles",
    "titulo": "Ley General de Sociedades Mercantiles",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2023-10-20",
+   "fecha": "2025-12-26",
    "tipoFecha": "ultima_reforma",
-   "version": "20231020",
+   "version": "20251226",
    "archivo": "federal/ley-general-de-sociedades-mercantiles.epub",
-   "bytes": 51392,
-   "sha256": "06a359b42f1c0fca945c5b352d55679a2ca6d04bf7afbe4a5cce7671f764fa2f",
-   "articulos": 277
+   "bytes": 51372,
+   "sha256": "6b2919105fd0a4296a786c90c644104181e32b72209d7874a96fb8361d56f947",
+   "articulos": 277,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf"
   },
   {
    "id": "federal/ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -563,20 +605,22 @@
    "archivo": "federal/ley-general-de-transparencia-y-acceso-a-la-informacion-publica.epub",
    "bytes": 67295,
    "sha256": "6364f355e6d7aefbe0a0256fff66381a13855d699f6605cd8ee0b24663a29486",
-   "articulos": 164
+   "articulos": 164,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf"
   },
   {
    "id": "federal/ley-general-de-turismo",
    "titulo": "Ley General de Turismo",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2025-11-14",
+   "fecha": "2026-11-13",
    "tipoFecha": "ultima_reforma",
-   "version": "20251114",
+   "version": "20261113",
    "archivo": "federal/ley-general-de-turismo.epub",
-   "bytes": 35143,
-   "sha256": "68d3d820268c08bb39bd4129854dab6c3b516ea2bb74921d13b86df7fbb0d945",
-   "articulos": 74
+   "bytes": 35628,
+   "sha256": "0846cac9421ba766cb911f258a3398441de5e37ec73f481352979ee37158aea6",
+   "articulos": 74,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf"
   },
   {
    "id": "federal/ley-general-de-titulos-y-operaciones-de-credito",
@@ -589,7 +633,8 @@
    "archivo": "federal/ley-general-de-titulos-y-operaciones-de-credito.epub",
    "bytes": 107093,
    "sha256": "085f84359a0f664d9b02f1e18984c97c3443efff1b5c594b97f26784f4413c71",
-   "articulos": 463
+   "articulos": 463,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf"
   },
   {
    "id": "federal/ley-general-de-vida-silvestre",
@@ -602,7 +647,8 @@
    "archivo": "federal/ley-general-de-vida-silvestre.epub",
    "bytes": 57847,
    "sha256": "233ee202b5afd6df44dc19baac0a6be2f86546abdc2d2a1ddc76b1c76b0ac91c",
-   "articulos": 143
+   "articulos": 143,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf"
   },
   {
    "id": "federal/ley-general-de-victimas",
@@ -615,7 +661,8 @@
    "archivo": "federal/ley-general-de-victimas.epub",
    "bytes": 85828,
    "sha256": "c61f23df81011f62065b9e2e74f44d460e937de84de109e965c0c1b53b9169d9",
-   "articulos": 204
+   "articulos": 204,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf"
   },
   {
    "id": "federal/ley-general-de-la-alimentacion-adecuada-y-sostenible",
@@ -628,7 +675,8 @@
    "archivo": "federal/ley-general-de-la-alimentacion-adecuada-y-sostenible.epub",
    "bytes": 31615,
    "sha256": "ace4c344b2e913f3d1e2941c62abbcffbbddec82e5f60b94051e5d34bbe51e31",
-   "articulos": 112
+   "articulos": 112,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf"
   },
   {
    "id": "federal/ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -641,20 +689,22 @@
    "archivo": "federal/ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes.epub",
    "bytes": 72313,
    "sha256": "024d165f4e65e0688f6ca3624d155e62231c53371fcb1ab56752c5e86a6aeb2a",
-   "articulos": 184
+   "articulos": 184,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf"
   },
   {
    "id": "federal/ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
    "titulo": "Ley General de los Medios de Impugnación en Materia Electoral",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2023-03-02",
+   "fecha": "2023-11-24",
    "tipoFecha": "publicacion",
-   "version": "20230302",
+   "version": "20231124",
    "archivo": "federal/ley-general-de-los-medios-de-impugnacion-en-materia-electoral.epub",
-   "bytes": 35673,
-   "sha256": "9f66e10cb9a0eee294899c85c53d58f6ae86e5b50369a32a85f5a6dca26d7899",
-   "articulos": 71
+   "bytes": 35641,
+   "sha256": "c6b678b20e78e8b6404a88d39f957c888330547b2b127fb28f8bc70eb95baf1b",
+   "articulos": 71,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf"
   },
   {
    "id": "federal/ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -667,7 +717,8 @@
    "archivo": "federal/ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente.epub",
    "bytes": 106781,
    "sha256": "1cb3092a9bd0219d761756731dc17f1f72d643ffbb6e9d479596a3669e655fd7",
-   "articulos": 270
+   "articulos": 270,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf"
   },
   {
    "id": "federal/ley-general-del-sistema-nacional-anticorrupcion",
@@ -680,7 +731,8 @@
    "archivo": "federal/ley-general-del-sistema-nacional-anticorrupcion.epub",
    "bytes": 23875,
    "sha256": "2dc44611031682062eee414b4e3a7266a1dc7e4e9285d4dfd9751929da8ff6d2",
-   "articulos": 61
+   "articulos": 61,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf"
   },
   {
    "id": "federal/ley-general-del-sistema-nacional-de-seguridad-publica",
@@ -693,7 +745,8 @@
    "archivo": "federal/ley-general-del-sistema-nacional-de-seguridad-publica.epub",
    "bytes": 49013,
    "sha256": "1cc02eecb4f8a6b4661cda0938634a1d297ac187afe55c4e64622d916a47fa39",
-   "articulos": 148
+   "articulos": 148,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf"
   },
   {
    "id": "federal/ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -706,7 +759,8 @@
    "archivo": "federal/ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral.epub",
    "bytes": 55760,
    "sha256": "7f19d054fde5741e327fb85825f8a7809587baf09b648a478c972b38d1b5582f",
-   "articulos": 119
+   "articulos": 119,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf"
   },
   {
    "id": "federal/ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
@@ -719,7 +773,8 @@
    "archivo": "federal/ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros.epub",
    "bytes": 32282,
    "sha256": "09947c02107ba0198adac48c1ec3a68389162d99551439c095babb9846751828",
-   "articulos": 108
+   "articulos": 108,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf"
   },
   {
    "id": "federal/ley-general-en-materia-de-delitos-electorales",
@@ -732,7 +787,22 @@
    "archivo": "federal/ley-general-en-materia-de-delitos-electorales.epub",
    "bytes": 20381,
    "sha256": "9da49f27129849c36b3b62ac73cb67619707c5125e9078564e98df62e0d11fe7",
-   "articulos": 30
+   "articulos": 30,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf"
+  },
+  {
+   "id": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-come",
+   "titulo": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+   "ambito": "Federal",
+   "categoria": "Leyes Generales",
+   "fecha": "2025-07-16",
+   "tipoFecha": "ultima_reforma",
+   "version": "20250716",
+   "archivo": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-come.epub",
+   "bytes": 69052,
+   "sha256": "0af7a2b6ad4c2985f5aa002f793a3df54e2cb2385596c576b081c503cc4c2ed5",
+   "articulos": 192,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf"
   },
   {
    "id": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida",
@@ -758,7 +828,22 @@
    "archivo": "federal/ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion.epub",
    "bytes": 45529,
    "sha256": "e551838c7d540150a02a701990dcafadab8c3a3307fff9d6a338928ae826cef3",
-   "articulos": 101
+   "articulos": 101,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf"
+  },
+  {
+   "id": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-re",
+   "titulo": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+   "ambito": "Federal",
+   "categoria": "Leyes Generales",
+   "fecha": "2021-05-20",
+   "tipoFecha": "ultima_reforma",
+   "version": "20210520",
+   "archivo": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-re.epub",
+   "bytes": 25007,
+   "sha256": "8929a6161e1786fbcf612d82cb61918d92b6343c14fbcc5abc9a0ed0bd006aa4",
+   "articulos": 49,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf"
   },
   {
    "id": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro",
@@ -774,6 +859,20 @@
    "articulos": 49
   },
   {
+   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o",
+   "titulo": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+   "ambito": "Federal",
+   "categoria": "Leyes Generales",
+   "fecha": "2022-04-28",
+   "tipoFecha": "ultima_reforma",
+   "version": "20220428",
+   "archivo": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o.epub",
+   "bytes": 33897,
+   "sha256": "242622ca766239fb73ac96bf23b8dbdf5d67d9f4567661e98ba20b43c07710a4",
+   "articulos": 97,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf"
+  },
+  {
    "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-pen",
    "titulo": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles...",
    "ambito": "Federal",
@@ -787,6 +886,20 @@
    "articulos": 97
   },
   {
+   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-e",
+   "titulo": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+   "ambito": "Federal",
+   "categoria": "Leyes Generales",
+   "fecha": "2025-11-28",
+   "tipoFecha": "publicacion",
+   "version": "20251128",
+   "archivo": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-e.epub",
+   "bytes": 18576,
+   "sha256": "7edf6f248b5dddfa1e9586ffe529590a2cdd1970160880b9c4519bb0157ad4b5",
+   "articulos": 45,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf"
+  },
+  {
    "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extor",
    "titulo": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión...",
    "ambito": "Federal",
@@ -798,6 +911,20 @@
    "bytes": 18417,
    "sha256": "6e728a4635a69076cf4e67fb77655a05e4be2b82b4bed0788fb4127cdb817012",
    "articulos": 45
+  },
+  {
+   "id": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-tr",
+   "titulo": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+   "ambito": "Federal",
+   "categoria": "Leyes Generales",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-tr.epub",
+   "bytes": 54474,
+   "sha256": "5c6df13c0d14d1433271b16a779744306b04d7f4bbca89b9efa2b064ecdfd009",
+   "articulos": 127,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf"
   },
   {
    "id": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-",
@@ -823,20 +950,36 @@
    "archivo": "federal/ley-general-para-el-control-del-tabaco.epub",
    "bytes": 20003,
    "sha256": "71527f263671e7e0dc151c0b47d16879eff51f2e899d69dcee1f790638cac82a",
-   "articulos": 58
+   "articulos": 58,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf"
+  },
+  {
+   "id": "federal/ley-general-para-el-fortalecimiento-y-armonizacion-catastral-y-registral",
+   "titulo": "Ley General para el Fortalecimiento y Armonización Catastral y Registral",
+   "ambito": "Federal",
+   "categoria": "Leyes Generales",
+   "fecha": "2026-10-23",
+   "tipoFecha": "publicacion",
+   "version": "20261023",
+   "archivo": "federal/ley-general-para-el-fortalecimiento-y-armonizacion-catastral-y-registral.epub",
+   "bytes": 11245,
+   "sha256": "b52334c99e66f10f7a9a485607d6af0b52dc0d42a51a513b8f78ef01ed1eeb72",
+   "articulos": 45,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGFACR.pdf"
   },
   {
    "id": "federal/ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espect",
    "titulo": "Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
    "ambito": "Federal",
    "categoria": "Leyes Generales",
-   "fecha": "2015-04-30",
+   "fecha": "2016-05-27",
    "tipoFecha": "publicacion",
-   "version": "20150430",
+   "version": "20160527",
    "archivo": "federal/ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espect.epub",
-   "bytes": 14802,
-   "sha256": "de743ffad99c71de11c666fb01e7f0af0d1f50c6aa1e389197f6d0688ddee400",
-   "articulos": 19
+   "bytes": 14789,
+   "sha256": "9c4a4cc0f4ede0833aaa929353381e9a4ade02ebf6a8c68def34a4322778cf83",
+   "articulos": 19,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf"
   },
   {
    "id": "federal/ley-general-para-la-deteccion-oportuna-del-cancer-en-la-infancia-y-la-adolescenc",
@@ -849,7 +992,8 @@
    "archivo": "federal/ley-general-para-la-deteccion-oportuna-del-cancer-en-la-infancia-y-la-adolescenc.epub",
    "bytes": 13116,
    "sha256": "7683d043b1de0550456b73d1aedaa96e5d82cfd4ed03c9bca53d8291e8efcb59",
-   "articulos": 33
+   "articulos": 33,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf"
   },
   {
    "id": "federal/ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
@@ -862,7 +1006,8 @@
    "archivo": "federal/ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres.epub",
    "bytes": 23957,
    "sha256": "f4dd39c5224eb540f26543d462d7d8ac2ebde1c817acb12daa1b75d9142b138e",
-   "articulos": 52
+   "articulos": 52,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf"
   },
   {
    "id": "federal/ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
@@ -875,7 +1020,8 @@
    "archivo": "federal/ley-general-para-la-inclusion-de-las-personas-con-discapacidad.epub",
    "bytes": 27971,
    "sha256": "bf69952bd891d403c4ee266b34682acecb4475c5f71f8786d8732bc5b0bff458",
-   "articulos": 61
+   "articulos": 61,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf"
   },
   {
    "id": "federal/ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
@@ -888,7 +1034,8 @@
    "archivo": "federal/ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia.epub",
    "bytes": 13706,
    "sha256": "15de92b6ada22a99c21e1f17a468c18930db1f02acaf4667d460c61e09a5bccf",
-   "articulos": 31
+   "articulos": 31,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf"
   },
   {
    "id": "federal/ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
@@ -901,7 +1048,8 @@
    "archivo": "federal/ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos.epub",
    "bytes": 49800,
    "sha256": "32e5fdce39173f7a890d7c691c1a9b298bc5cdc0226bdffaf657b11aa18d5405",
-   "articulos": 126
+   "articulos": 126,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf"
   },
   {
    "id": "federal/ley-nacional-de-ejecucion-penal",
@@ -914,7 +1062,8 @@
    "archivo": "federal/ley-nacional-de-ejecucion-penal.epub",
    "bytes": 70962,
    "sha256": "b4df0aaa9fdcd168a910ab5516409cdd99421a48f4e31c710e5c5cada34fdd6e",
-   "articulos": 208
+   "articulos": 208,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf"
   },
   {
    "id": "federal/ley-nacional-de-extincion-de-dominio",
@@ -927,7 +1076,8 @@
    "archivo": "federal/ley-nacional-de-extincion-de-dominio.epub",
    "bytes": 64772,
    "sha256": "8efa3463e7a0abff14cd3b4007e0343edb63841940cb33f6c5f5c3f1abe9dab6",
-   "articulos": 253
+   "articulos": 253,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf"
   },
   {
    "id": "federal/ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-",
@@ -940,7 +1090,8 @@
    "archivo": "federal/ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-.epub",
    "bytes": 21368,
    "sha256": "af9393edbafee2a7b70b39d767e7fa468fa4d49c8029acb33539a4ffb2a9fa04",
-   "articulos": 53
+   "articulos": 53,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf"
   },
   {
    "id": "federal/ley-nacional-del-registro-de-detenciones",
@@ -953,7 +1104,8 @@
    "archivo": "federal/ley-nacional-del-registro-de-detenciones.epub",
    "bytes": 11549,
    "sha256": "958b4d99c74b0f344c3068e0aadb8d6af94afbfee565856ac6d845e970df4112",
-   "articulos": 37
+   "articulos": 37,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf"
   },
   {
    "id": "federal/ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
@@ -966,7 +1118,8 @@
    "archivo": "federal/ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes.epub",
    "bytes": 76088,
    "sha256": "774623faab89377811e99ffddf79b2c8bc4610c819fe6476e290fb2bf5171356",
-   "articulos": 267
+   "articulos": 267,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf"
   },
   {
    "id": "federal/ley-nacional-para-eliminar-tramites-burocraticos",
@@ -979,7 +1132,8 @@
    "archivo": "federal/ley-nacional-para-eliminar-tramites-burocraticos.epub",
    "bytes": 30476,
    "sha256": "372e7814182c91d027f738455c8fa3efba9d1445797c4dca0229aedc67ec7a4d",
-   "articulos": 83
+   "articulos": 83,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf"
   },
   {
    "id": "federal/ley-nacional-sobre-el-uso-de-la-fuerza",
@@ -992,7 +1146,8 @@
    "archivo": "federal/ley-nacional-sobre-el-uso-de-la-fuerza.epub",
    "bytes": 17517,
    "sha256": "c53d7c5279c8774ccd6e14735fd7a79e27d1e4640d22158e3c60b59ca53565e7",
-   "articulos": 45
+   "articulos": 45,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf"
   },
   {
    "id": "federal/ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
@@ -1005,7 +1160,8 @@
    "archivo": "federal/ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos.epub",
    "bytes": 20371,
    "sha256": "6031a9d98c367f0f14eb0f380e8c9219381e524a4d5b259500e983c9e73d60a4",
-   "articulos": 62
+   "articulos": 62,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf"
   },
   {
    "id": "federal/ley-federal-contra-la-delincuencia-organizada",
@@ -1018,7 +1174,8 @@
    "archivo": "federal/ley-federal-contra-la-delincuencia-organizada.epub",
    "bytes": 36756,
    "sha256": "49c0c5c02b8f2151c848ac0cdee78b8d889c1642fa7cc2a08eb373f1119f0645",
-   "articulos": 57
+   "articulos": 57,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf"
   },
   {
    "id": "federal/ley-federal-de-armas-de-fuego-y-explosivos",
@@ -1031,7 +1188,8 @@
    "archivo": "federal/ley-federal-de-armas-de-fuego-y-explosivos.epub",
    "bytes": 36986,
    "sha256": "82a7c28f15a45a503a82d4d2436e02ee493a03c07f8ce350bd448865052d22cd",
-   "articulos": 125
+   "articulos": 125,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf"
   },
   {
    "id": "federal/ley-federal-de-austeridad-republicana",
@@ -1044,7 +1202,22 @@
    "archivo": "federal/ley-federal-de-austeridad-republicana.epub",
    "bytes": 18573,
    "sha256": "587d22d586a2997581a56d00d415c5320cbd1ccfbed94ce924d998a2cd5f0f67",
-   "articulos": 33
+   "articulos": 33,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf"
+  },
+  {
+   "id": "federal/ley-federal-de-cine-y-el-audiovisual",
+   "titulo": "Ley Federal de Cine y el Audiovisual",
+   "ambito": "Federal",
+   "categoria": "Leyes Federales",
+   "fecha": "2026-05-22",
+   "tipoFecha": "publicacion",
+   "version": "20260522",
+   "archivo": "federal/ley-federal-de-cine-y-el-audiovisual.epub",
+   "bytes": 22502,
+   "sha256": "08a501a853c32013ebd8880cee8882573b6f81580f3b2f3241edbfb7d7783562",
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf"
   },
   {
    "id": "federal/ley-federal-de-cinematografia",
@@ -1057,7 +1230,9 @@
    "archivo": "federal/ley-federal-de-cinematografia.epub",
    "bytes": 25692,
    "sha256": "790d0fda3f68600b2057418a6ad6e71f675f871306533f5a4ac24f8767dfe902",
-   "articulos": 58
+   "articulos": 58,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
+   "abrogada": true
   },
   {
    "id": "federal/ley-federal-de-competencia-economica",
@@ -1070,7 +1245,8 @@
    "archivo": "federal/ley-federal-de-competencia-economica.epub",
    "bytes": 74226,
    "sha256": "6341f76bebf53d51630f3743331cd17d4875d67bbb15db6bf268999ae8674886",
-   "articulos": 155
+   "articulos": 155,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf"
   },
   {
    "id": "federal/ley-federal-de-consulta-popular",
@@ -1083,7 +1259,8 @@
    "archivo": "federal/ley-federal-de-consulta-popular.epub",
    "bytes": 18436,
    "sha256": "a7e3b7d02f3bca09017837f016545d8017e064851a8fca7ae5b4e14a9133bf7f",
-   "articulos": 66
+   "articulos": 66,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf"
   },
   {
    "id": "federal/ley-federal-de-correduria-publica",
@@ -1096,7 +1273,8 @@
    "archivo": "federal/ley-federal-de-correduria-publica.epub",
    "bytes": 13910,
    "sha256": "c63e19077eef3a998c45080b582688a1a709c7c9715ea7a6f5eb9dfed225f141",
-   "articulos": 23
+   "articulos": 23,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf"
   },
   {
    "id": "federal/ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
@@ -1109,7 +1287,8 @@
    "archivo": "federal/ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas.epub",
    "bytes": 16728,
    "sha256": "5dc772427f64f391f6f2578c89cd3b6cd70d08f264bed3bea4364490e77993eb",
-   "articulos": 34
+   "articulos": 34,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf"
   },
   {
    "id": "federal/ley-federal-de-defensoria-publica",
@@ -1122,20 +1301,22 @@
    "archivo": "federal/ley-federal-de-defensoria-publica.epub",
    "bytes": 32397,
    "sha256": "d653c3d9f70e3158cd8ee1e22493fd8dd67c585ffddf23e39c55af0e71a720e6",
-   "articulos": 44
+   "articulos": 44,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf"
   },
   {
    "id": "federal/ley-federal-de-derechos",
    "titulo": "Ley Federal de Derechos",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2025-11-07",
+   "fecha": "2026-11-13",
    "tipoFecha": "ultima_reforma",
-   "version": "20251107",
+   "version": "20261113",
    "archivo": "federal/ley-federal-de-derechos.epub",
-   "bytes": 605383,
-   "sha256": "53750cb9c85134eefec8cd5f12686db9e8a69c058f88e7cf26d6d2c9a96df009",
-   "articulos": 787
+   "bytes": 609049,
+   "sha256": "04f5a2d7ca44595a3ab44b9630f2e13582b0d38cee9a5820fe93dd532b98d90d",
+   "articulos": 787,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf"
   },
   {
    "id": "federal/ley-federal-de-deuda-publica",
@@ -1148,7 +1329,8 @@
    "archivo": "federal/ley-federal-de-deuda-publica.epub",
    "bytes": 18801,
    "sha256": "0117e5fe28a6d29c46b2e48c2320119f1687860c1b1076d7141ee356d932ab8c",
-   "articulos": 32
+   "articulos": 32,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf"
   },
   {
    "id": "federal/ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-soc",
@@ -1161,7 +1343,8 @@
    "archivo": "federal/ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-soc.epub",
    "bytes": 16952,
    "sha256": "e70655f42947415e6251b9de10c53f4383571f55485941de5329a59ca46bc1bc",
-   "articulos": 33
+   "articulos": 33,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf"
   },
   {
    "id": "federal/ley-federal-de-juegos-y-sorteos",
@@ -1174,20 +1357,22 @@
    "archivo": "federal/ley-federal-de-juegos-y-sorteos.epub",
    "bytes": 6768,
    "sha256": "b1151ac4e1ce54cf93b95ae2ca039d62d33da4a99bdb30e54e68345910942003",
-   "articulos": 17
+   "articulos": 17,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf"
   },
   {
    "id": "federal/ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
    "titulo": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2025-07-16",
+   "fecha": "2026-04-09",
    "tipoFecha": "ultima_reforma",
-   "version": "20250716",
+   "version": "20260409",
    "archivo": "federal/ley-federal-de-presupuesto-y-responsabilidad-hacendaria.epub",
-   "bytes": 98470,
-   "sha256": "732188d5b11f7c36cb9b77673699eb474a0526122f5cb985c03c204c0947fe7b",
-   "articulos": 123
+   "bytes": 100399,
+   "sha256": "83cbc9f8a9f88a003b597fab54d513028f5b16ac6589c01378cc08fc924ec5db",
+   "articulos": 125,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf"
   },
   {
    "id": "federal/ley-federal-de-procedimiento-administrativo",
@@ -1200,20 +1385,22 @@
    "archivo": "federal/ley-federal-de-procedimiento-administrativo.epub",
    "bytes": 30529,
    "sha256": "04d9993be12b7c970740a492b34f65def390bb40d80447ca3d0343f0c944be0a",
-   "articulos": 119
+   "articulos": 119,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf"
   },
   {
    "id": "federal/ley-federal-de-procedimiento-contencioso-administrativo",
    "titulo": "Ley Federal de Procedimiento Contencioso Administrativo",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2025-11-14",
+   "fecha": "2026-06-09",
    "tipoFecha": "ultima_reforma",
-   "version": "20251114",
+   "version": "20260609",
    "archivo": "federal/ley-federal-de-procedimiento-contencioso-administrativo.epub",
-   "bytes": 62199,
-   "sha256": "4099a73d09a051039326fda8b0980ac2839c23a5124b5ecef9ad151e584b56c2",
-   "articulos": 132
+   "bytes": 67393,
+   "sha256": "95a261676bdba6b8d7411e0005bb291425306d15427bc9086325c82d31659008",
+   "articulos": 135,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf"
   },
   {
    "id": "federal/ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -1226,33 +1413,36 @@
    "archivo": "federal/ley-federal-de-produccion-certificacion-y-comercio-de-semillas.epub",
    "bytes": 18157,
    "sha256": "5c29c1016c4795606b7c9df9e6a9b61824b134c8e68e36a55ae644d4fca5ee80",
-   "articulos": 43
+   "articulos": 43,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf"
   },
   {
    "id": "federal/ley-federal-de-proteccion-a-la-propiedad-industrial",
    "titulo": "Ley Federal de Protección a la Propiedad Industrial",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2026-01-15",
+   "fecha": "2026-11-13",
    "tipoFecha": "ultima_reforma",
-   "version": "20260115",
+   "version": "20261113",
    "archivo": "federal/ley-federal-de-proteccion-a-la-propiedad-industrial.epub",
-   "bytes": 85770,
-   "sha256": "15673edf045730be84b2c6ef3fb454bb2acae5c1413f39898753008abe0b922f",
-   "articulos": 411
+   "bytes": 96589,
+   "sha256": "1af25bbca6d703944a5d284293913aaadbb65dc29380cf331efc9a360648d896",
+   "articulos": 428,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
   },
   {
    "id": "federal/ley-federal-de-proteccion-al-consumidor",
    "titulo": "Ley Federal de Protección al Consumidor",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2025-12-12",
+   "fecha": "2025-12-23",
    "tipoFecha": "ultima_reforma",
-   "version": "20251212",
+   "version": "20251223",
    "archivo": "federal/ley-federal-de-proteccion-al-consumidor.epub",
-   "bytes": 79953,
-   "sha256": "16f43d6853ab2488a6c2e02768f7f8a2bca8d1e8f971d6589fef7a4c9f2b2e03",
-   "articulos": 190
+   "bytes": 79821,
+   "sha256": "713928f08937e222b501ec4cceeb29021ca9363e8286d3dddcffb8bfa39f3425",
+   "articulos": 190,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
   },
   {
    "id": "federal/ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
@@ -1265,7 +1455,22 @@
    "archivo": "federal/ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares.epub",
    "bytes": 22498,
    "sha256": "69a9c8d0cd43f7a6a32260f7649f4c897af0a8441f9abaa397cde5baf2271ce5",
-   "articulos": 67
+   "articulos": 67,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf"
+  },
+  {
+   "id": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidad",
+   "titulo": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+   "ambito": "Federal",
+   "categoria": "Leyes Federales",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidad.epub",
+   "bytes": 20561,
+   "sha256": "70b0832fefed0b1884c15213ebd2ca4c43cdb7f5572528529934c6e47188e317",
+   "articulos": 75,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf"
   },
   {
    "id": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-i",
@@ -1291,7 +1496,8 @@
    "archivo": "federal/ley-federal-de-remuneraciones-de-los-servidores-publicos.epub",
    "bytes": 15645,
    "sha256": "a69ec9316a99c4685004bee7bf4d35c720934bc27c5312de974a3c4e0b0eb933",
-   "articulos": 36
+   "articulos": 36,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf"
   },
   {
    "id": "federal/ley-federal-de-responsabilidad-ambiental",
@@ -1304,7 +1510,8 @@
    "archivo": "federal/ley-federal-de-responsabilidad-ambiental.epub",
    "bytes": 22318,
    "sha256": "f1aa62668469b847a2f3f3106e5242c6c187dbb1855d722fe8813c63d357bcc1",
-   "articulos": 57
+   "articulos": 57,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf"
   },
   {
    "id": "federal/ley-federal-de-responsabilidad-patrimonial-del-estado",
@@ -1317,7 +1524,8 @@
    "archivo": "federal/ley-federal-de-responsabilidad-patrimonial-del-estado.epub",
    "bytes": 15432,
    "sha256": "497a8e64d34d8983bd52ea45cd4dc575e81df24ab7a77f12320df61c7092fa5d",
-   "articulos": 38
+   "articulos": 38,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf"
   },
   {
    "id": "federal/ley-federal-de-responsabilidades-de-los-servidores-publicos",
@@ -1330,20 +1538,22 @@
    "archivo": "federal/ley-federal-de-responsabilidades-de-los-servidores-publicos.epub",
    "bytes": 28411,
    "sha256": "d717ba08449ff1165bd4fd960eabd53131ab8a68a8568fcce1a9086d8709b00d",
-   "articulos": 94
+   "articulos": 94,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf"
   },
   {
    "id": "federal/ley-federal-de-revocacion-de-mandato",
    "titulo": "Ley Federal de Revocación de Mandato",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2021-09-14",
+   "fecha": "2022-09-26",
    "tipoFecha": "publicacion",
-   "version": "20210914",
+   "version": "20220926",
    "archivo": "federal/ley-federal-de-revocacion-de-mandato.epub",
-   "bytes": 19750,
-   "sha256": "aa3b59804b9ff35f24992cb76b475b747ef43b4ae0e17321a156485ad5c34d3f",
-   "articulos": 62
+   "bytes": 19730,
+   "sha256": "a066cc9b1644aca62710b9bda56be1d97d9a612f60f94465070e62ea404fe1a8",
+   "articulos": 62,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf"
   },
   {
    "id": "federal/ley-federal-de-sanidad-animal",
@@ -1356,7 +1566,8 @@
    "archivo": "federal/ley-federal-de-sanidad-animal.epub",
    "bytes": 55611,
    "sha256": "2e62dbc2c53075274f47c10d07dd63a799b21bb9e76435f6b1c38e7f56ea3896",
-   "articulos": 178
+   "articulos": 178,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf"
   },
   {
    "id": "federal/ley-federal-de-sanidad-vegetal",
@@ -1369,7 +1580,8 @@
    "archivo": "federal/ley-federal-de-sanidad-vegetal.epub",
    "bytes": 34093,
    "sha256": "04b3ec348713ebf34da2eaf59ec85631fe6fd1e730b5aa142ebfea1b842b8247",
-   "articulos": 97
+   "articulos": 97,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf"
   },
   {
    "id": "federal/ley-federal-de-seguridad-privada",
@@ -1382,7 +1594,8 @@
    "archivo": "federal/ley-federal-de-seguridad-privada.epub",
    "bytes": 22648,
    "sha256": "74bacb2e98d8b958acd0afb59b353e2e4a1d6cdb86bceaf3875279a8b8e4797f",
-   "articulos": 51
+   "articulos": 51,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf"
   },
   {
    "id": "federal/ley-federal-de-variedades-vegetales",
@@ -1395,7 +1608,8 @@
    "archivo": "federal/ley-federal-de-variedades-vegetales.epub",
    "bytes": 16785,
    "sha256": "ea20fc1869e4db4eb3186e18a3a71918c12b571519113fdef98db4c5546eb045",
-   "articulos": 48
+   "articulos": 48,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf"
   },
   {
    "id": "federal/ley-federal-de-zonas-economicas-especiales",
@@ -1408,7 +1622,8 @@
    "archivo": "federal/ley-federal-de-zonas-economicas-especiales.epub",
    "bytes": 27874,
    "sha256": "ec142bed20388dad64e9c49576e5e4401d5d7bdd085568a6b5e61cbb8bbdd28d",
-   "articulos": 52
+   "articulos": 52,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf"
   },
   {
    "id": "federal/ley-federal-de-las-entidades-paraestatales",
@@ -1421,7 +1636,8 @@
    "archivo": "federal/ley-federal-de-las-entidades-paraestatales.epub",
    "bytes": 44904,
    "sha256": "d71b2630add55f3476bd3af9e39d6af1da8a57956fce6e9ed4412b6bc24a6ad8",
-   "articulos": 69
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf"
   },
   {
    "id": "federal/ley-federal-de-los-derechos-del-contribuyente",
@@ -1434,7 +1650,8 @@
    "archivo": "federal/ley-federal-de-los-derechos-del-contribuyente.epub",
    "bytes": 9905,
    "sha256": "d26df01b627f8e7ec7afb7fae4e756104bfec4038f220086285f84d2f4994efc",
-   "articulos": 24
+   "articulos": 24,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf"
   },
   {
    "id": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartad",
@@ -1450,30 +1667,46 @@
    "articulos": 177
   },
   {
-   "id": "federal/ley-federal-del-derecho-de-autor",
-   "titulo": "Ley Federal del Derecho de Autor",
+   "id": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apa",
+   "titulo": "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
    "fecha": "2026-01-15",
    "tipoFecha": "ultima_reforma",
    "version": "20260115",
+   "archivo": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apa.epub",
+   "bytes": 48682,
+   "sha256": "e936590b5ac91502871b328a7bde1993bfba14b78cc7390de3d689ba5560ecf8",
+   "articulos": 177,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf"
+  },
+  {
+   "id": "federal/ley-federal-del-derecho-de-autor",
+   "titulo": "Ley Federal del Derecho de Autor",
+   "ambito": "Federal",
+   "categoria": "Leyes Federales",
+   "fecha": "2026-05-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20260514",
    "archivo": "federal/ley-federal-del-derecho-de-autor.epub",
-   "bytes": 71495,
-   "sha256": "0b71a830e8e32386b070bdfa2192f62ab4152bc90558452bb0d45062badd208e",
-   "articulos": 256
+   "bytes": 72836,
+   "sha256": "70d435a398ddb79c9fc12b4e69158ba1d3197fa58e2b60bc6fd041e35fabeb5b",
+   "articulos": 258,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf"
   },
   {
    "id": "federal/ley-federal-del-impuesto-sobre-automoviles-nuevos",
    "titulo": "Ley Federal del Impuesto sobre Automóviles Nuevos",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2021-11-12",
+   "fecha": "2025-12-28",
    "tipoFecha": "ultima_reforma",
-   "version": "20211112",
+   "version": "20251228",
    "archivo": "federal/ley-federal-del-impuesto-sobre-automoviles-nuevos.epub",
-   "bytes": 147954,
-   "sha256": "d75a7436754e1468917842d689e2919f126b9f2769ab150dc3a6e5afd6a5fed0",
-   "articulos": 15
+   "bytes": 150543,
+   "sha256": "33adc37a62e1540c5e42125fdaa2310cf1bfbead66cb26191668ff27c2f564ed",
+   "articulos": 15,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf"
   },
   {
    "id": "federal/ley-federal-del-mar",
@@ -1486,20 +1719,22 @@
    "archivo": "federal/ley-federal-del-mar.epub",
    "bytes": 11838,
    "sha256": "d238e262acccb4433119afdea14334bbf4b7333c35b4e22f791c480f904badb9",
-   "articulos": 65
+   "articulos": 65,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf"
   },
   {
    "id": "federal/ley-federal-del-trabajo",
    "titulo": "Ley Federal del Trabajo",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2026-01-15",
+   "fecha": "2026-05-14",
    "tipoFecha": "ultima_reforma",
-   "version": "20260115",
+   "version": "20260514",
    "archivo": "federal/ley-federal-del-trabajo.epub",
-   "bytes": 780699,
-   "sha256": "adb8443da6e0c73ddbfd34b2d3cf638b76addafa2ad3fed6d8fcebf62c23b44a",
-   "articulos": 1264
+   "bytes": 733254,
+   "sha256": "ebc8c4736ec2dbd4fc062ce702c3f02c8a523ad52e66ac70040c56e93bb4042c",
+   "articulos": 1266,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf"
   },
   {
    "id": "federal/ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -1512,7 +1747,8 @@
    "archivo": "federal/ley-federal-para-prevenir-y-eliminar-la-discriminacion.epub",
    "bytes": 37018,
    "sha256": "9353c4399d9bd98caff9ea08d696c220b7211f45e4bd6cd8879a528288e44296",
-   "articulos": 113
+   "articulos": 113,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf"
   },
   {
    "id": "federal/ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidroc",
@@ -1525,7 +1761,22 @@
    "archivo": "federal/ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidroc.epub",
    "bytes": 15773,
    "sha256": "25783d711a83a6718840cd325d34f09a5171d71a9421e8f4daa777f7dcfead7f",
-   "articulos": 25
+   "articulos": 25,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf"
+  },
+  {
+   "id": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenc",
+   "titulo": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+   "ambito": "Federal",
+   "categoria": "Leyes Federales",
+   "fecha": "2023-05-03",
+   "tipoFecha": "ultima_reforma",
+   "version": "20230503",
+   "archivo": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenc.epub",
+   "bytes": 19768,
+   "sha256": "32b091a146aac2beb180dee8baf5a8feb4743207d1c324dd713b8a6813280733",
+   "articulos": 31,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf"
   },
   {
    "id": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciale",
@@ -1539,6 +1790,20 @@
    "bytes": 19673,
    "sha256": "e2c52a3725e893796d14f4f8108788976712961758857856f195b11c001defd5",
    "articulos": 31
+  },
+  {
+   "id": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-pa",
+   "titulo": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+   "ambito": "Federal",
+   "categoria": "Leyes Federales",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-pa.epub",
+   "bytes": 330504,
+   "sha256": "b2b68b08f9277b85aad7dd15abe1b614d0b231742867bc4358c316e05dbebbed",
+   "articulos": 77,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf"
   },
   {
    "id": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-l",
@@ -1558,13 +1823,14 @@
    "titulo": "Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "1988-01-26",
+   "fecha": "2023-03-27",
    "tipoFecha": "publicacion",
-   "version": "19880126",
+   "version": "20230327",
    "archivo": "federal/ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal.epub",
-   "bytes": 16542,
-   "sha256": "6faf575c0c2b39da52cbe71d8dcada6e8ccbd4d3f8e64ebd7fc9aafb3bea8c2b",
-   "articulos": 45
+   "bytes": 16521,
+   "sha256": "c51eb0ad2e8c54027aed0ef85ea8d0ff91350397d4153f9e19c45637059035b8",
+   "articulos": 45,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf"
   },
   {
    "id": "federal/ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
@@ -1577,7 +1843,8 @@
    "archivo": "federal/ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo.epub",
    "bytes": 7799,
    "sha256": "4f5dddc6d325d3c2ad7797d807c7ed20a851e368c8ec3c4a8997f2718a8f2273",
-   "articulos": 14
+   "articulos": 14,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf"
   },
   {
    "id": "federal/ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1590,7 +1857,8 @@
    "archivo": "federal/ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico.epub",
    "bytes": 43615,
    "sha256": "0ea9a9282408988a1542353d6c91138628c20ca8147c5d091c2b413409130adc",
-   "articulos": 102
+   "articulos": 102,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf"
   },
   {
    "id": "federal/ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-p",
@@ -1603,7 +1871,8 @@
    "archivo": "federal/ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-p.epub",
    "bytes": 35408,
    "sha256": "7d898160df16abd4d02e490a692a7eddfa2a64a5d09b9f857b1e6f88c387b7f3",
-   "articulos": 74
+   "articulos": 74,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf"
   },
   {
    "id": "federal/ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-pe",
@@ -1616,7 +1885,8 @@
    "archivo": "federal/ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-pe.epub",
    "bytes": 24626,
    "sha256": "60d2e881b46ef0a906d4e7ea53ef59ea49f3f2731cfb322dc6f2c9455e3a89a2",
-   "articulos": 53
+   "articulos": 53,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf"
   },
   {
    "id": "federal/ley-organica-de-nacional-financiera",
@@ -1629,7 +1899,8 @@
    "archivo": "federal/ley-organica-de-nacional-financiera.epub",
    "bytes": 20388,
    "sha256": "a012073d32284dc3d4560d124e83df5a7133fd786cc742af12f132eef62e8e3b",
-   "articulos": 38
+   "articulos": 38,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf"
   },
   {
    "id": "federal/ley-organica-de-sociedad-hipotecaria-federal",
@@ -1642,20 +1913,22 @@
    "archivo": "federal/ley-organica-de-sociedad-hipotecaria-federal.epub",
    "bytes": 23045,
    "sha256": "8dff164a3e85cc2dfa5b2194fcf07d6f0811f587eb05804645d816ca131eedfc",
-   "articulos": 38
+   "articulos": 38,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-administracion-publica-federal",
    "titulo": "Ley Orgánica de la Administración Pública Federal",
    "ambito": "Federal",
    "categoria": "Leyes Orgánicas",
-   "fecha": "1976-12-29",
-   "tipoFecha": "publicacion",
-   "version": "19761229",
+   "fecha": "2026-05-07",
+   "tipoFecha": "ultima_reforma",
+   "version": "20260507",
    "archivo": "federal/ley-organica-de-la-administracion-publica-federal.epub",
-   "bytes": 133639,
-   "sha256": "d084ea1878a04cab4de3d3ef32c1a3f9b314e70a0b213023c05f6d75a6852509",
-   "articulos": 73
+   "bytes": 134257,
+   "sha256": "828f143d07abfca08e57145e765e1d166beda1d511159d3f60ba99ea785cc484",
+   "articulos": 73,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-armada-de-mexico",
@@ -1668,20 +1941,22 @@
    "archivo": "federal/ley-organica-de-la-armada-de-mexico.epub",
    "bytes": 22876,
    "sha256": "5703dafc324be2673fd510b899f4644b4ff3f1616fb49ecf76bd5b3e1a7144a6",
-   "articulos": 102
+   "articulos": 102,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
    "titulo": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
    "ambito": "Federal",
    "categoria": "Leyes Orgánicas",
-   "fecha": "2011-06-20",
+   "fecha": "2012-02-24",
    "tipoFecha": "publicacion",
-   "version": "20110620",
+   "version": "20120224",
    "archivo": "federal/ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal.epub",
-   "bytes": 38625,
-   "sha256": "e87eddbe529fe5132014a6ccbbd3a31600031fd4d2bf9bf77b98b34714deb6a9",
-   "articulos": 85
+   "bytes": 38574,
+   "sha256": "28a6a9338b8b4b833a3be9a5ec43646b1509981e5ec1e622c7efef9a7a75c5b1",
+   "articulos": 85,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -1694,7 +1969,8 @@
    "archivo": "federal/ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente.epub",
    "bytes": 18956,
    "sha256": "85c0051a32b5ec3ee1401ad6f2e11bd46d39632db0545382e2e0e198be7a3e5b",
-   "articulos": 29
+   "articulos": 29,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
@@ -1707,7 +1983,8 @@
    "archivo": "federal/ley-organica-de-la-universidad-autonoma-agraria-antonio-narro.epub",
    "bytes": 10083,
    "sha256": "f6028f543fb15f2b4761827b3a1d2ade484420fa3c812ffe5e709d018d95cb80",
-   "articulos": 27
+   "articulos": 27,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-universidad-autonoma-metropolitana",
@@ -1720,7 +1997,8 @@
    "archivo": "federal/ley-organica-de-la-universidad-autonoma-metropolitana.epub",
    "bytes": 10328,
    "sha256": "012fe8c913f0572f5251d37f3fa266bf29883efb1da7da75240779203fd8b43a",
-   "articulos": 37
+   "articulos": 37,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf"
   },
   {
    "id": "federal/ley-organica-de-la-universidad-nacional-autonoma-de-mexico",
@@ -1733,7 +2011,8 @@
    "archivo": "federal/ley-organica-de-la-universidad-nacional-autonoma-de-mexico.epub",
    "bytes": 10246,
    "sha256": "5123da60ce34e9202898f1a28b0f6318bd65430bc429bc27d7204c14ed0cf2d5",
-   "articulos": 18
+   "articulos": 18,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf"
   },
   {
    "id": "federal/ley-organica-de-los-tribunales-agrarios",
@@ -1746,7 +2025,8 @@
    "archivo": "federal/ley-organica-de-los-tribunales-agrarios.epub",
    "bytes": 13490,
    "sha256": "f62fe602deddeafcb24165ec2ef55226656a43bf975dacd2405536db6d55a27e",
-   "articulos": 30
+   "articulos": 30,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf"
   },
   {
    "id": "federal/ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -1759,7 +2039,8 @@
    "archivo": "federal/ley-organica-del-banco-nacional-de-comercio-exterior.epub",
    "bytes": 18685,
    "sha256": "f794f3cc7e77ff2e08bb9dd774ee3cc5ee65cc48d79612cac6cc28c90a1bc5e8",
-   "articulos": 37
+   "articulos": 37,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf"
   },
   {
    "id": "federal/ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
@@ -1772,7 +2053,8 @@
    "archivo": "federal/ley-organica-del-banco-nacional-de-obras-y-servicios-publicos.epub",
    "bytes": 23297,
    "sha256": "5fe10e7ef678c847e34a11da4e05cf363d9e8ebea67baea22f964605bbefc2a4",
-   "articulos": 36
+   "articulos": 36,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf"
   },
   {
    "id": "federal/ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
@@ -1785,7 +2067,8 @@
    "archivo": "federal/ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada.epub",
    "bytes": 19507,
    "sha256": "3abc63816fd74850d4bb1ff18053532e591c1ff35c2ed6e403c3bae99316b703",
-   "articulos": 59
+   "articulos": 59,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf"
   },
   {
    "id": "federal/ley-organica-del-banco-del-bienestar",
@@ -1798,7 +2081,8 @@
    "archivo": "federal/ley-organica-del-banco-del-bienestar.epub",
    "bytes": 24496,
    "sha256": "09f72ece6a581884ab2ec6cfc0415c45eed7ef1b6ab1ee4891408376f79d264f",
-   "articulos": 41
+   "articulos": 41,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf"
   },
   {
    "id": "federal/ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
@@ -1811,7 +2095,8 @@
    "archivo": "federal/ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral.epub",
    "bytes": 12020,
    "sha256": "0d39561f2174b3e70734025e04b83280da2addc9515e40ad5a39530f6f02045e",
-   "articulos": 26
+   "articulos": 26,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf"
   },
   {
    "id": "federal/ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
@@ -1824,7 +2109,8 @@
    "archivo": "federal/ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos.epub",
    "bytes": 69479,
    "sha256": "4c7e860ce449e152ec0386e0ff19982f5810b3e105019d20aaa149a19be6a363",
-   "articulos": 151
+   "articulos": 151,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf"
   },
   {
    "id": "federal/ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -1837,7 +2123,8 @@
    "archivo": "federal/ley-organica-del-ejercito-y-fuerza-aerea-mexicanos.epub",
    "bytes": 54187,
    "sha256": "59be79cbc721ae495154cc538e567087ebe4369f6db7f37939a887a4bea6141f",
-   "articulos": 233
+   "articulos": 233,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf"
   },
   {
    "id": "federal/ley-organica-del-instituto-nacional-de-antropologia-e-historia",
@@ -1850,7 +2137,8 @@
    "archivo": "federal/ley-organica-del-instituto-nacional-de-antropologia-e-historia.epub",
    "bytes": 10883,
    "sha256": "2011c98745a7b9543c11a0170102c260054884002ca97574e68e10a65fc8e1ad",
-   "articulos": 20
+   "articulos": 20,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf"
   },
   {
    "id": "federal/ley-organica-del-instituto-politecnico-nacional",
@@ -1863,7 +2151,8 @@
    "archivo": "federal/ley-organica-del-instituto-politecnico-nacional.epub",
    "bytes": 12297,
    "sha256": "562f535730e823e266817bac71d2d0242d6c5b7c34df9a6f2327a776ba1a5da1",
-   "articulos": 34
+   "articulos": 34,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf"
   },
   {
    "id": "federal/ley-organica-del-poder-judicial-de-la-federacion",
@@ -1876,7 +2165,8 @@
    "archivo": "federal/ley-organica-del-poder-judicial-de-la-federacion.epub",
    "bytes": 77947,
    "sha256": "9897eb828a00b325b27d379ccee173aea415c532cfcfb809a87c8e5c1214a61b",
-   "articulos": 178
+   "articulos": 178,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf"
   },
   {
    "id": "federal/ley-organica-del-seminario-de-cultura-mexicana",
@@ -1889,7 +2179,8 @@
    "archivo": "federal/ley-organica-del-seminario-de-cultura-mexicana.epub",
    "bytes": 7548,
    "sha256": "8f98c38a1475b31cc9581a6e42f7e3e488436c77f4ad1bbc62f48aed1bd5293e",
-   "articulos": 16
+   "articulos": 16,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf"
   },
   {
    "id": "federal/ley-organica-del-tribunal-federal-de-justicia-administrativa",
@@ -1902,7 +2193,8 @@
    "archivo": "federal/ley-organica-del-tribunal-federal-de-justicia-administrativa.epub",
    "bytes": 33459,
    "sha256": "407985d70d2530017f362c726d8343a36bafc26659c45b21a9a77dd6ea6fb050",
-   "articulos": 73
+   "articulos": 73,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf"
   },
   {
    "id": "federal/ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de",
@@ -1915,7 +2207,8 @@
    "archivo": "federal/ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de.epub",
    "bytes": 6225,
    "sha256": "9790f9d1eeb4512122c5392dc95674c328b1ec0d4a92966a4a262d7ffaaaa47f",
-   "articulos": 15
+   "articulos": 15,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf"
   },
   {
    "id": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-",
@@ -1931,6 +2224,20 @@
    "articulos": 25
   },
   {
+   "id": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de",
+   "titulo": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de.epub",
+   "bytes": 18604,
+   "sha256": "59bf9975f22b16908c438c11a3eeb495746115215b077dd69104d1080b88b672",
+   "articulos": 25,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf"
+  },
+  {
    "id": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-que-",
    "titulo": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional en lo que se refiere...",
    "ambito": "Federal",
@@ -1942,6 +2249,34 @@
    "bytes": 5023,
    "sha256": "c37760e8d7879ce0cf2f55cea2b61797d4ead14ab3e55899783dc0a51a22e328",
    "articulos": 2
+  },
+  {
+   "id": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-",
+   "titulo": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "1982-12-27",
+   "tipoFecha": "publicacion",
+   "version": "19821227",
+   "archivo": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-.epub",
+   "bytes": 5212,
+   "sha256": "9e98c8922ce53b20c5dc3f89b0646908c4fcc80f83f49631c85bdf44e31385df",
+   "articulos": 2,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf"
+  },
+  {
+   "id": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-polit",
+   "titulo": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-polit.epub",
+   "bytes": 9735,
+   "sha256": "84cab1d5a1a930432a93464ca44634ae526df2029f45329df7a467553534259f",
+   "articulos": 26,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf"
   },
   {
    "id": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-politica",
@@ -1970,6 +2305,20 @@
    "articulos": 74
   },
   {
+   "id": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constituci",
+   "titulo": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constituci.epub",
+   "bytes": 30391,
+   "sha256": "632792f5fdf6e9f2d6df01f73413a4cd49e29c6f4ea90f44d96d681c6cfcf33a",
+   "articulos": 74,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf"
+  },
+  {
    "id": "federal/ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
    "titulo": "Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
    "ambito": "Federal",
@@ -1980,7 +2329,22 @@
    "archivo": "federal/ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear.epub",
    "bytes": 20343,
    "sha256": "cab604dc3724bab454e2e473a3eafcb4d69cc76ec1fd515ed68e14da787a7a82",
-   "articulos": 52
+   "articulos": 52,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf"
+  },
+  {
+   "id": "federal/ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados",
+   "titulo": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "2019-09-30",
+   "tipoFecha": "publicacion",
+   "version": "20190930",
+   "archivo": "federal/ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados.epub",
+   "bytes": 19357,
+   "sha256": "509d3a060f248d2a7018eb2c39d561577d0ab863850d344cc852db3f37ea1b99",
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf"
   },
   {
    "id": "federal/ley-reglamentaria-del-articulo-3o-en-materia-de-mejora-continua-de-la-educacion",
@@ -1994,6 +2358,20 @@
    "bytes": 19281,
    "sha256": "3ab533f5eaf27f98c33dabbe8899b161f8fe38a607c69d3b944a29c405fb942e",
    "articulos": 69
+  },
+  {
+   "id": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-la",
+   "titulo": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "2018-01-19",
+   "tipoFecha": "ultima_reforma",
+   "version": "20180119",
+   "archivo": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-la.epub",
+   "bytes": 20374,
+   "sha256": "4a2c49cf3652ba3a0ec55225d7e5bb26d3bad82272be2e1862be99dd849c2123",
+   "articulos": 73,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf"
   },
   {
    "id": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-pr",
@@ -2019,7 +2397,22 @@
    "archivo": "federal/ley-reglamentaria-del-servicio-ferroviario.epub",
    "bytes": 34569,
    "sha256": "894e47f9c3316bcabca677b0cc0952665d8eb6338889a8e43f3ae58e4d509d5b",
-   "articulos": 69
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf"
+  },
+  {
+   "id": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politic",
+   "titulo": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+   "ambito": "Federal",
+   "categoria": "Leyes Reglamentarias",
+   "fecha": "2025-11-14",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251114",
+   "archivo": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politic.epub",
+   "bytes": 15965,
+   "sha256": "eabe0bb2e66d42b7443880d91d9aeb8db0458f8cd17e76bf3a30f1ae9144114b",
+   "articulos": 43,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf"
   },
   {
    "id": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-en-materia-del-derecho-de-repl",
@@ -2039,13 +2432,14 @@
    "titulo": "Ley Aduanera",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-11-19",
+   "fecha": "2026-10-23",
    "tipoFecha": "ultima_reforma",
-   "version": "20251119",
+   "version": "20261023",
    "archivo": "federal/ley-aduanera.epub",
-   "bytes": 188319,
-   "sha256": "f565ea49aebbcb0487934753888380d5149c861630be526de40f667ce22a4cc3",
-   "articulos": 280
+   "bytes": 189825,
+   "sha256": "e0197dfe39d5f5619dc209f904105db61eb71712514b808e2e9aecafbac19e28",
+   "articulos": 280,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf"
   },
   {
    "id": "federal/ley-agraria",
@@ -2058,20 +2452,22 @@
    "archivo": "federal/ley-agraria.epub",
    "bytes": 49738,
    "sha256": "8ec8ab4216df07b72a23060cb782ec9fbbed02a9a8d8d966dbbc93602edc121f",
-   "articulos": 201
+   "articulos": 201,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"
   },
   {
    "id": "federal/ley-monetaria-de-los-estados-unidos-mexicanos",
    "titulo": "Ley Monetaria de los Estados Unidos Mexicanos",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "1931-07-27",
+   "fecha": "2026-01-19",
    "tipoFecha": "publicacion",
-   "version": "19310727",
+   "version": "20260119",
    "archivo": "federal/ley-monetaria-de-los-estados-unidos-mexicanos.epub",
-   "bytes": 26425,
-   "sha256": "2aa95077c80b13bde55632ce6accab3141bf2981379ead7f2dfd6425d37a4359",
-   "articulos": 39
+   "bytes": 26377,
+   "sha256": "0e7f7d69278e68ed7da53d9a53af8291e7a7bde12bb63a23f74767c775e5dce4",
+   "articulos": 39,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf"
   },
   {
    "id": "federal/ley-sobre-el-contrato-de-seguro",
@@ -2084,7 +2480,8 @@
    "archivo": "federal/ley-sobre-el-contrato-de-seguro.epub",
    "bytes": 33773,
    "sha256": "dc0a5947e879e256569d7d849e5c90f06076c40ff2a838405de8f764372a2f80",
-   "articulos": 210
+   "articulos": 210,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf"
   },
   {
    "id": "federal/ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
@@ -2097,7 +2494,8 @@
    "archivo": "federal/ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales.epub",
    "bytes": 488092,
    "sha256": "83d935a39a7b7bcf551a22c9a5e50c82d86be478271f2d6d6ce98bff748a0ffb",
-   "articulos": 70
+   "articulos": 70,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf"
   },
   {
    "id": "federal/ley-sobre-la-celebracion-de-tratados",
@@ -2110,7 +2508,8 @@
    "archivo": "federal/ley-sobre-la-celebracion-de-tratados.epub",
    "bytes": 10411,
    "sha256": "77d33b84a0c37c739484029ef401c7740b79bbe4c46a43109b4f0b0bfb4d82e8",
-   "articulos": 11
+   "articulos": 11,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf"
   },
   {
    "id": "federal/ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -2123,7 +2522,8 @@
    "archivo": "federal/ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico.epub",
    "bytes": 60339,
    "sha256": "33768796359d32ed0aaba19cdb969502fbd7286183b57ec0f067629a82c0c10d",
-   "articulos": 122
+   "articulos": 122,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf"
   },
   {
    "id": "federal/ley-de-aeropuertos",
@@ -2136,7 +2536,8 @@
    "archivo": "federal/ley-de-aeropuertos.epub",
    "bytes": 38820,
    "sha256": "b2a896ff4a65ab49d1b3a51f364cba7ae78d60620f5bc4d38f2902f7d2cd1a33",
-   "articulos": 109
+   "articulos": 109,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf"
   },
   {
    "id": "federal/ley-de-aguas-nacionales",
@@ -2149,7 +2550,8 @@
    "archivo": "federal/ley-de-aguas-nacionales.epub",
    "bytes": 110803,
    "sha256": "b042d7ccf70068b45269aa748198a24c8ddda171e8569d48499240921e2c50db",
-   "articulos": 218
+   "articulos": 218,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf"
   },
   {
    "id": "federal/ley-de-ahorro-y-credito-popular",
@@ -2162,7 +2564,8 @@
    "archivo": "federal/ley-de-ahorro-y-credito-popular.epub",
    "bytes": 124913,
    "sha256": "4c4661e2df74f430c63c02efa22febf48736da36992d483d2cadf32a87b36097",
-   "articulos": 240
+   "articulos": 240,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf"
   },
   {
    "id": "federal/ley-de-amnistia",
@@ -2175,7 +2578,8 @@
    "archivo": "federal/ley-de-amnistia.epub",
    "bytes": 7889,
    "sha256": "cb6cfc1df2174e5c0a7dc1a72f5fa6aa3f6d5a0df1240a51295425beb7ce57d2",
-   "articulos": 10
+   "articulos": 10,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf"
   },
   {
    "id": "federal/ley-de-amnistia-1994",
@@ -2189,6 +2593,20 @@
    "bytes": 4737,
    "sha256": "3a129793680fcdc184b0f5c753a999065634746b659ed38a1b7fb6455e3f8edf",
    "articulos": 4
+  },
+  {
+   "id": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-po",
+   "titulo": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2025-10-16",
+   "tipoFecha": "ultima_reforma",
+   "version": "20251016",
+   "archivo": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-po.epub",
+   "bytes": 104368,
+   "sha256": "a6979cb34d50b9d4c9bcf4d6837ade5f5eb04f3ff1b30ee2d31fb74acf4db256",
+   "articulos": 273,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf"
   },
   {
    "id": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politi",
@@ -2214,7 +2632,8 @@
    "archivo": "federal/ley-de-ascensos-de-la-armada-de-mexico.epub",
    "bytes": 13433,
    "sha256": "cec8692b48486a728cd96e92db8820422ef89e5c194c062c382a310df9ffb1b4",
-   "articulos": 57
+   "articulos": 57,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf"
   },
   {
    "id": "federal/ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -2227,7 +2646,8 @@
    "archivo": "federal/ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional.epub",
    "bytes": 29584,
    "sha256": "0cee0e74f9ae8226b9cfd28c6aa627de69eeaf4d04e48254639736679c84bacd",
-   "articulos": 78
+   "articulos": 78,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf"
   },
   {
    "id": "federal/ley-de-asistencia-social",
@@ -2240,7 +2660,8 @@
    "archivo": "federal/ley-de-asistencia-social.epub",
    "bytes": 22589,
    "sha256": "671c552463e8386b4b04b44fe9dc66c91db908454e67018c0766fe2fb908c49c",
-   "articulos": 69
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf"
   },
   {
    "id": "federal/ley-de-asociaciones-publico-privadas",
@@ -2253,7 +2674,8 @@
    "archivo": "federal/ley-de-asociaciones-publico-privadas.epub",
    "bytes": 54777,
    "sha256": "1ca26170e05ba05d4bd748ed7e0c766d8f782486aac483bb6f86d7c6aba86c4c",
-   "articulos": 149
+   "articulos": 149,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf"
   },
   {
    "id": "federal/ley-de-asociaciones-religiosas-y-culto-publico",
@@ -2266,7 +2688,8 @@
    "archivo": "federal/ley-de-asociaciones-religiosas-y-culto-publico.epub",
    "bytes": 18620,
    "sha256": "b9efe6ae9018fdd446ffc210eec81c72829a8cf670342ccc0a10273f2b6beb51",
-   "articulos": 37
+   "articulos": 37,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf"
   },
   {
    "id": "federal/ley-de-aviacion-civil",
@@ -2279,7 +2702,8 @@
    "archivo": "federal/ley-de-aviacion-civil.epub",
    "bytes": 67823,
    "sha256": "03eaa7c0f2037f514cf24f2afa3ef2c85175543fc01b8b318f17ddeabbb45f60",
-   "articulos": 154
+   "articulos": 154,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf"
   },
   {
    "id": "federal/ley-de-ayuda-alimentaria-para-los-trabajadores",
@@ -2292,7 +2716,8 @@
    "archivo": "federal/ley-de-ayuda-alimentaria-para-los-trabajadores.epub",
    "bytes": 8741,
    "sha256": "13004b05c96876b6a0c4b03518c41cdac704e3300338b8c49edb6de28b47fa2d",
-   "articulos": 23
+   "articulos": 23,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf"
   },
   {
    "id": "federal/ley-de-biocombustibles",
@@ -2305,7 +2730,8 @@
    "archivo": "federal/ley-de-biocombustibles.epub",
    "bytes": 18890,
    "sha256": "7d42384e3980787344aded364ce32d9da53de9a7be17386b6607e793451b19be",
-   "articulos": 49
+   "articulos": 49,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf"
   },
   {
    "id": "federal/ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -2318,7 +2744,8 @@
    "archivo": "federal/ley-de-bioseguridad-de-organismos-geneticamente-modificados.epub",
    "bytes": 45367,
    "sha256": "99e982f07f161561a47afdf369c14ab23d12e2617ede54ffc22d185a5630237f",
-   "articulos": 125
+   "articulos": 125,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf"
   },
   {
    "id": "federal/ley-de-caminos-puentes-y-autotransporte-federal",
@@ -2331,7 +2758,8 @@
    "archivo": "federal/ley-de-caminos-puentes-y-autotransporte-federal.epub",
    "bytes": 34596,
    "sha256": "2e5dc34938ed9d9e373f671602fdd3e6aae11480adc81a1c6a3990d1d18b77dd",
-   "articulos": 93
+   "articulos": 93,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf"
   },
   {
    "id": "federal/ley-de-capitalizacion-del-procampo",
@@ -2344,7 +2772,8 @@
    "archivo": "federal/ley-de-capitalizacion-del-procampo.epub",
    "bytes": 9266,
    "sha256": "aebc98cf6621cb6b845d433d9730d4d5f3c2555b914eeae2087b1a2a02c5c4b6",
-   "articulos": 22
+   "articulos": 22,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf"
   },
   {
    "id": "federal/ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
@@ -2357,33 +2786,36 @@
    "archivo": "federal/ley-de-carrera-judicial-del-poder-judicial-de-la-federacion.epub",
    "bytes": 22899,
    "sha256": "706a68824b69fb2d5a30dd479c7dbd04ec629487ef357d3a3477d403d1459423",
-   "articulos": 75
+   "articulos": 75,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf"
   },
   {
    "id": "federal/ley-de-comercio-exterior",
    "titulo": "Ley de Comercio Exterior",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2006-12-21",
+   "fecha": "2026-05-01",
    "tipoFecha": "ultima_reforma",
-   "version": "20061221",
+   "version": "20260501",
    "archivo": "federal/ley-de-comercio-exterior.epub",
-   "bytes": 34461,
-   "sha256": "4a35c6527bf51e42206441e05155a08b10bec6955a7f1752304b67402d8b607b",
-   "articulos": 109
+   "bytes": 35087,
+   "sha256": "f1ee82c1d89edcc720daa828b5f9c761e24305bdca8e69b8f0cac0740ebe7dc3",
+   "articulos": 109,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf"
   },
   {
    "id": "federal/ley-de-concursos-mercantiles",
    "titulo": "Ley de Concursos Mercantiles",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-11-14",
+   "fecha": "2026-01-16",
    "tipoFecha": "ultima_reforma",
-   "version": "20251114",
+   "version": "20260116",
    "archivo": "federal/ley-de-concursos-mercantiles.epub",
-   "bytes": 93196,
-   "sha256": "ac1da0cf41d8f1385fdbb6b2c5da44d8371427f8edefa3f042513ef3ac3541d8",
-   "articulos": 356
+   "bytes": 93095,
+   "sha256": "39f1b7d2538cdb64fa579eeeb92042946404f5d77e8d6577554be68fb302510e",
+   "articulos": 356,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf"
   },
   {
    "id": "federal/ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-h",
@@ -2396,7 +2828,8 @@
    "archivo": "federal/ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-h.epub",
    "bytes": 10139,
    "sha256": "bb3b1ae8fa373503163a5aa3b014f43992efce7754612a7aac6f55947f490218",
-   "articulos": 15
+   "articulos": 15,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf"
   },
   {
    "id": "federal/ley-de-cooperacion-internacional-para-el-desarrollo",
@@ -2409,7 +2842,8 @@
    "archivo": "federal/ley-de-cooperacion-internacional-para-el-desarrollo.epub",
    "bytes": 19081,
    "sha256": "e5e0d594f033c1d552e632cc8e2c9ce8a1f8b934820c29864559f1918fdc2689",
-   "articulos": 42
+   "articulos": 42,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf"
   },
   {
    "id": "federal/ley-de-coordinacion-fiscal",
@@ -2422,7 +2856,8 @@
    "archivo": "federal/ley-de-coordinacion-fiscal.epub",
    "bytes": 104971,
    "sha256": "5a00293ac90f0fd2ad1b82f0240b125e1e088ae681a9445a3aaf9f1d642dd77b",
-   "articulos": 67
+   "articulos": 67,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf"
   },
   {
    "id": "federal/ley-de-camaras-empresariales-y-sus-confederaciones",
@@ -2435,7 +2870,8 @@
    "archivo": "federal/ley-de-camaras-empresariales-y-sus-confederaciones.epub",
    "bytes": 20299,
    "sha256": "5ba8090ba58508088e2195fa04433a7f5561d7ef06e0d6e1035c14dc8b9eebca",
-   "articulos": 46
+   "articulos": 46,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf"
   },
   {
    "id": "federal/ley-de-desarrollo-rural-sustentable",
@@ -2448,7 +2884,8 @@
    "archivo": "federal/ley-de-desarrollo-rural-sustentable.epub",
    "bytes": 60163,
    "sha256": "4dc61357a13c8eaeaf9aa8017004625b0da4c16f4fc7346cd7d509b0ba0bac4d",
-   "articulos": 193
+   "articulos": 193,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf"
   },
   {
    "id": "federal/ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -2461,7 +2898,8 @@
    "archivo": "federal/ley-de-desarrollo-sustentable-de-la-cafeticultura.epub",
    "bytes": 22129,
    "sha256": "b3b8981756f45201a94d46633224ad1346218ab6de5eed5fe1b166af12013547",
-   "articulos": 86
+   "articulos": 86,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf"
   },
   {
    "id": "federal/ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -2474,7 +2912,8 @@
    "archivo": "federal/ley-de-desarrollo-sustentable-de-la-cana-de-azucar.epub",
    "bytes": 62174,
    "sha256": "797a8644175b07904585fee49575cf8108b676b3dfaf45a19da80fe09a06c13d",
-   "articulos": 151
+   "articulos": 151,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf"
   },
   {
    "id": "federal/ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -2487,7 +2926,8 @@
    "archivo": "federal/ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios.epub",
    "bytes": 32545,
    "sha256": "ac568dcd527ab0609a5ed8da09a877acbad840cb66db6a56b1811acd580323e2",
-   "articulos": 69
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf"
   },
   {
    "id": "federal/ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -2500,7 +2940,8 @@
    "archivo": "federal/ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional.epub",
    "bytes": 14583,
    "sha256": "1f0802283d47ecfa6db7fa3ed7eac7c6a1f6dd2905e67771889817c527ed699f",
-   "articulos": 57
+   "articulos": 57,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf"
   },
   {
    "id": "federal/ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
@@ -2513,7 +2954,22 @@
    "archivo": "federal/ley-de-disciplina-para-el-personal-de-la-armada-de-mexico.epub",
    "bytes": 15682,
    "sha256": "b6d49d6090aefca53991ac29b414a073927d317dba2b126a36bd42c2a0aec0e1",
-   "articulos": 80
+   "articulos": 80,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf"
+  },
+  {
+   "id": "federal/ley-de-economia-digital-para-pagos-digitales-y-electronicos",
+   "titulo": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2026-11-04",
+   "tipoFecha": "publicacion",
+   "version": "20261104",
+   "archivo": "federal/ley-de-economia-digital-para-pagos-digitales-y-electronicos.epub",
+   "bytes": 8686,
+   "sha256": "297d29019a3774708f9e0c04afbcbc7e966b6af4fdd598761de976eab095a662",
+   "articulos": 23,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEDPDE.pdf"
   },
   {
    "id": "federal/ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -2526,7 +2982,8 @@
    "archivo": "federal/ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional.epub",
    "bytes": 12356,
    "sha256": "9d9ae9c84a5e2a218d153320990861a97943155770e71635c41018cfb0240c9d",
-   "articulos": 53
+   "articulos": 53,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf"
   },
   {
    "id": "federal/ley-de-educacion-naval",
@@ -2539,7 +2996,8 @@
    "archivo": "federal/ley-de-educacion-naval.epub",
    "bytes": 8581,
    "sha256": "610d7a2b4cef81a8521720957491f65d34c87851876a58310738b17c24e702e4",
-   "articulos": 25
+   "articulos": 25,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf"
   },
   {
    "id": "federal/ley-de-energia-para-el-campo",
@@ -2552,7 +3010,8 @@
    "archivo": "federal/ley-de-energia-para-el-campo.epub",
    "bytes": 7381,
    "sha256": "fef7d4fd1fee5c4561964ff7d3a028b6954d788e976e28b6d3d20154ad6688dc",
-   "articulos": 14
+   "articulos": 14,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf"
   },
   {
    "id": "federal/ley-de-expropiacion",
@@ -2565,7 +3024,8 @@
    "archivo": "federal/ley-de-expropiacion.epub",
    "bytes": 13230,
    "sha256": "f455e1f26a2d71e2cfad068997b4f858f70d096b90850f92ce658a530a5aa7b9",
-   "articulos": 25
+   "articulos": 25,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf"
   },
   {
    "id": "federal/ley-de-extradicion-internacional",
@@ -2578,7 +3038,8 @@
    "archivo": "federal/ley-de-extradicion-internacional.epub",
    "bytes": 17295,
    "sha256": "6d8b70de718386e1a809cf3c4bf9d9d60a541bacb07e566e26a88180afd11516",
-   "articulos": 38
+   "articulos": 38,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf"
   },
   {
    "id": "federal/ley-de-firma-electronica-avanzada",
@@ -2591,20 +3052,22 @@
    "archivo": "federal/ley-de-firma-electronica-avanzada.epub",
    "bytes": 17013,
    "sha256": "2d9dc22f5a145c710f336da81841342f76f5fd952299e7f30d0f4cf6f72c7dcc",
-   "articulos": 32
+   "articulos": 32,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf"
   },
   {
    "id": "federal/ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
    "titulo": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2021-05-20",
+   "fecha": "2026-05-15",
    "tipoFecha": "ultima_reforma",
-   "version": "20210520",
+   "version": "20260515",
    "archivo": "federal/ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion.epub",
-   "bytes": 43849,
-   "sha256": "6db535e58eb4089cf0842f368653ad810d27abdfe44de8ce1e346949dac163f0",
-   "articulos": 116
+   "bytes": 45603,
+   "sha256": "5d02840ca9d1cd66960cec10bab72432705f04ae6086f53f437b21dbb517e288",
+   "articulos": 118,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf"
   },
   {
    "id": "federal/ley-de-fomento-a-la-confianza-ciudadana",
@@ -2617,7 +3080,8 @@
    "archivo": "federal/ley-de-fomento-a-la-confianza-ciudadana.epub",
    "bytes": 8898,
    "sha256": "d939d4d246706f116f172e1cbfb89771b2688f5d4253f75d592a1e172b5b6685",
-   "articulos": 18
+   "articulos": 18,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf"
   },
   {
    "id": "federal/ley-de-fomento-a-la-industria-vitivinicola",
@@ -2630,7 +3094,8 @@
    "archivo": "federal/ley-de-fomento-a-la-industria-vitivinicola.epub",
    "bytes": 11710,
    "sha256": "a934fc32686fcffe83586210f0e7b0a5e307556eb5c047be4fa78f2e247df7b1",
-   "articulos": 36
+   "articulos": 36,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf"
   },
   {
    "id": "federal/ley-de-fomento-para-la-lectura-y-el-libro",
@@ -2643,7 +3108,8 @@
    "archivo": "federal/ley-de-fomento-para-la-lectura-y-el-libro.epub",
    "bytes": 15732,
    "sha256": "6effc8968f52a31c5b2721c32de3cada055892adb93b988e949fb9cb883ab879",
-   "articulos": 29
+   "articulos": 29,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf"
   },
   {
    "id": "federal/ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
@@ -2656,7 +3122,8 @@
    "archivo": "federal/ley-de-fondos-de-aseguramiento-agropecuario-y-rural.epub",
    "bytes": 35969,
    "sha256": "1e2c9c855de23d6127c25dd0b23596a1432803fd5f73a0a6518d7df80207f56d",
-   "articulos": 98
+   "articulos": 98,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf"
   },
   {
    "id": "federal/ley-de-fondos-de-inversion",
@@ -2669,7 +3136,8 @@
    "archivo": "federal/ley-de-fondos-de-inversion.epub",
    "bytes": 97293,
    "sha256": "a2ff7c2ffda81216e093ee15e6010bde0beb6dbb525cfb965a473d9d2bf491e6",
-   "articulos": 195
+   "articulos": 195,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf"
   },
   {
    "id": "federal/ley-de-geotermia",
@@ -2682,7 +3150,8 @@
    "archivo": "federal/ley-de-geotermia.epub",
    "bytes": 21049,
    "sha256": "85008f677c74cecd8ce82db91e6b83f2a16138ddb92cbc6ae4298988fa7cc5f4",
-   "articulos": 68
+   "articulos": 68,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf"
   },
   {
    "id": "federal/ley-de-infraestructura-de-la-calidad",
@@ -2695,7 +3164,8 @@
    "archivo": "federal/ley-de-infraestructura-de-la-calidad.epub",
    "bytes": 56063,
    "sha256": "344d9ce2e6058dd21777aa9272e33e685748b6a6c81b1cdc9b64cadabfa80856",
-   "articulos": 166
+   "articulos": 166,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf"
   },
   {
    "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -2708,20 +3178,37 @@
    "archivo": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026.epub",
    "bytes": 48861,
    "sha256": "3a97bdaa028eb1c2b497e72ca011c7375d6c27668e12ff2302a95daf42c2e682",
-   "articulos": 35
+   "articulos": 35,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+   "abrogada": true
+  },
+  {
+   "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2027",
+   "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2027-01-01",
+   "tipoFecha": "publicacion",
+   "version": "20270101",
+   "archivo": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2027.epub",
+   "bytes": 52462,
+   "sha256": "b6e601965a76e463aeae377206972a5b5689a6ae9ef576e8a3598481f35f6ce6",
+   "articulos": 35,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2027.pdf"
   },
   {
    "id": "federal/ley-de-ingresos-sobre-hidrocarburos",
    "titulo": "Ley de Ingresos sobre Hidrocarburos",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-03-18",
+   "fecha": "2025-12-28",
    "tipoFecha": "ultima_reforma",
-   "version": "20250318",
+   "version": "20251228",
    "archivo": "federal/ley-de-ingresos-sobre-hidrocarburos.epub",
-   "bytes": 31911,
-   "sha256": "33f27818960763d81446348be6d4470eeaabe0dd903993d9bddceff58570f606",
-   "articulos": 66
+   "bytes": 31882,
+   "sha256": "e452c9a87007762bc99e67670c78192f3c0d3c9e72ac4bf025c042119bcd8ca1",
+   "articulos": 66,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf"
   },
   {
    "id": "federal/ley-de-instituciones-de-credito",
@@ -2734,7 +3221,8 @@
    "archivo": "federal/ley-de-instituciones-de-credito.epub",
    "bytes": 256613,
    "sha256": "d1961f838878c86c25d5538d13cf582ca2fe77097719b0ddd2f8730e94b9a008",
-   "articulos": 492
+   "articulos": 492,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf"
   },
   {
    "id": "federal/ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -2747,20 +3235,22 @@
    "archivo": "federal/ley-de-instituciones-de-seguros-y-de-fianzas.epub",
    "bytes": 217882,
    "sha256": "a31d25129569c5a245d0f4c72a51d0844b6a0c5345ed52c7bc130bc4d0fcefb3",
-   "articulos": 512
+   "articulos": 512,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf"
   },
   {
    "id": "federal/ley-de-inversion-extranjera",
    "titulo": "Ley de Inversión Extranjera",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2024-05-27",
+   "fecha": "2026-11-19",
    "tipoFecha": "ultima_reforma",
-   "version": "20240527",
+   "version": "20261119",
    "archivo": "federal/ley-de-inversion-extranjera.epub",
-   "bytes": 44778,
-   "sha256": "14514b67fdb277eeb5d980271f0bf8819177b0ec0baab6a98ab009ecf6925430",
-   "articulos": 42
+   "bytes": 47520,
+   "sha256": "7caa903b980a0aa7ae7f9fe015900c13d7c560e3db881aacef3fe235569b6fab",
+   "articulos": 47,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf"
   },
   {
    "id": "federal/ley-de-migracion",
@@ -2773,7 +3263,8 @@
    "archivo": "federal/ley-de-migracion.epub",
    "bytes": 56598,
    "sha256": "0b3e81f994e9d25ba1e9b34e778389632cfc14f9b5233d54524ef5571d938a36",
-   "articulos": 163
+   "articulos": 163,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf"
   },
   {
    "id": "federal/ley-de-mineria",
@@ -2786,7 +3277,8 @@
    "archivo": "federal/ley-de-mineria.epub",
    "bytes": 41752,
    "sha256": "b2f84646cefe53a4c46bcc0529fb5b4c83662f827e3db26568947be1f4b5e154",
-   "articulos": 79
+   "articulos": 79,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf"
   },
   {
    "id": "federal/ley-de-nacionalidad",
@@ -2799,7 +3291,8 @@
    "archivo": "federal/ley-de-nacionalidad.epub",
    "bytes": 11135,
    "sha256": "5ac7b9a3d604effd75646694d2efff7ba9cc661ced741263f0398efc21588a94",
-   "articulos": 37
+   "articulos": 37,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf"
   },
   {
    "id": "federal/ley-de-navegacion-y-comercio-maritimos",
@@ -2812,7 +3305,8 @@
    "archivo": "federal/ley-de-navegacion-y-comercio-maritimos.epub",
    "bytes": 83076,
    "sha256": "d64ee05c4cfdd4a4e76c9cf2257888d6cd781eb4bc2ffa615677960393e381bb",
-   "articulos": 334
+   "articulos": 334,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf"
   },
   {
    "id": "federal/ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -2825,7 +3319,8 @@
    "archivo": "federal/ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas.epub",
    "bytes": 81521,
    "sha256": "ff91f4f33ad7f5301a9ac0c9125d580d3134ab214cd22f290df1e3095cc80424",
-   "articulos": 133
+   "articulos": 133,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf"
   },
   {
    "id": "federal/ley-de-organizaciones-ganaderas",
@@ -2838,7 +3333,8 @@
    "archivo": "federal/ley-de-organizaciones-ganaderas.epub",
    "bytes": 11727,
    "sha256": "8efeef921f672c5f3bd443bb238ef9f38ec36e2bbad828c2fdb6a83a3c2d55fa",
-   "articulos": 26
+   "articulos": 26,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf"
   },
   {
    "id": "federal/ley-de-planeacion",
@@ -2851,7 +3347,8 @@
    "archivo": "federal/ley-de-planeacion.epub",
    "bytes": 23365,
    "sha256": "3fadcb27eb841508338b3d144d53ab11bf5f2d8bf274149fc89b57ecd2fa6d75",
-   "articulos": 48
+   "articulos": 48,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf"
   },
   {
    "id": "federal/ley-de-planeacion-y-transicion-energetica",
@@ -2864,7 +3361,8 @@
    "archivo": "federal/ley-de-planeacion-y-transicion-energetica.epub",
    "bytes": 25599,
    "sha256": "bc5c4c1f45b1f37a439040c87ec83ad141879cb8b60995f21de3c84920602cc4",
-   "articulos": 103
+   "articulos": 103,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf"
   },
   {
    "id": "federal/ley-de-premios-estimulos-y-recompensas-civiles",
@@ -2877,7 +3375,8 @@
    "archivo": "federal/ley-de-premios-estimulos-y-recompensas-civiles.epub",
    "bytes": 37647,
    "sha256": "8faf9a270a133699708bb0471c38634cd54865d3ea050fdcb29b71b7cc41b3f9",
-   "articulos": 145
+   "articulos": 145,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf"
   },
   {
    "id": "federal/ley-de-productos-organicos",
@@ -2890,7 +3389,8 @@
    "archivo": "federal/ley-de-productos-organicos.epub",
    "bytes": 14659,
    "sha256": "ecc83f2877d8652293b7d05505204deb7a7d5fc46d3c8a9108f5f47738d015fe",
-   "articulos": 51
+   "articulos": 51,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf"
   },
   {
    "id": "federal/ley-de-proteccion-al-ahorro-bancario",
@@ -2903,7 +3403,22 @@
    "archivo": "federal/ley-de-proteccion-al-ahorro-bancario.epub",
    "bytes": 29943,
    "sha256": "7368c2e986e1e1aeb264d9775076f19dadbacaee52abe1e95cef7ee358621773",
-   "articulos": 96
+   "articulos": 96,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf"
+  },
+  {
+   "id": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contr",
+   "titulo": "Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2012-04-09",
+   "tipoFecha": "ultima_reforma",
+   "version": "20120409",
+   "archivo": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contr.epub",
+   "bytes": 6730,
+   "sha256": "8084791637c8026b1f669c4ee75757e2023ba37fc9215b8cfd8cfd03096491f3",
+   "articulos": 9,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf"
   },
   {
    "id": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contraven",
@@ -2929,7 +3444,8 @@
    "archivo": "federal/ley-de-proteccion-del-espacio-aereo-mexicano.epub",
    "bytes": 10964,
    "sha256": "fb2390d6a4ee4a4a4ffb3d613d9bd7f61c0854f41cf85e3e9aad094ab2b5c174",
-   "articulos": 27
+   "articulos": 27,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf"
   },
   {
    "id": "federal/ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
@@ -2942,7 +3458,8 @@
    "archivo": "federal/ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros.epub",
    "bytes": 49998,
    "sha256": "bc39641c2a47b082e84700e6124db5c2a475c0f415ba06d7a36b9f01a524496a",
-   "articulos": 129
+   "articulos": 129,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf"
   },
   {
    "id": "federal/ley-de-puertos",
@@ -2955,7 +3472,8 @@
    "archivo": "federal/ley-de-puertos.epub",
    "bytes": 25907,
    "sha256": "2929910b97e971a5f0f58d976f198fadc0c6ecf710babe8d3c59ab0367e22826",
-   "articulos": 73
+   "articulos": 73,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf"
   },
   {
    "id": "federal/ley-de-recompensas-de-la-armada-de-mexico",
@@ -2968,7 +3486,8 @@
    "archivo": "federal/ley-de-recompensas-de-la-armada-de-mexico.epub",
    "bytes": 15887,
    "sha256": "1b6e800db8bb53333b3c2ebffde62cbe8a7799f353115190a948be94b978fb72",
-   "articulos": 71
+   "articulos": 71,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf"
   },
   {
    "id": "federal/ley-de-responsabilidad-civil-por-danos-nucleares",
@@ -2981,20 +3500,22 @@
    "archivo": "federal/ley-de-responsabilidad-civil-por-danos-nucleares.epub",
    "bytes": 10106,
    "sha256": "60f6185ade34524daa5f0c27c29a76318583d2aa4d468db9c613ea5752d8f7a4",
-   "articulos": 31
+   "articulos": 31,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf"
   },
   {
    "id": "federal/ley-de-seguridad-interior",
    "titulo": "Ley de Seguridad Interior",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2017-12-21",
+   "fecha": "2019-05-30",
    "tipoFecha": "publicacion",
-   "version": "20171221",
+   "version": "20190530",
    "archivo": "federal/ley-de-seguridad-interior.epub",
-   "bytes": 14515,
-   "sha256": "a7989952d82d7377e390dd663ff2d409dd94061d7c92943acb01b208d9f16f47",
-   "articulos": 35
+   "bytes": 14501,
+   "sha256": "8e01d119cc7ef36738d2a053f9a16822468448cc754ad442d14d815be41a2cf6",
+   "articulos": 35,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf"
   },
   {
    "id": "federal/ley-de-seguridad-nacional",
@@ -3007,7 +3528,8 @@
    "archivo": "federal/ley-de-seguridad-nacional.epub",
    "bytes": 26863,
    "sha256": "20884fabd3d672bb581bdf8142cb9dfbe3aae83978886f1af425a18fc2c37021",
-   "articulos": 77
+   "articulos": 77,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf"
   },
   {
    "id": "federal/ley-de-sistemas-de-pagos",
@@ -3020,7 +3542,8 @@
    "archivo": "federal/ley-de-sistemas-de-pagos.epub",
    "bytes": 15441,
    "sha256": "f9962dac82ce043b726c474dff666df204fdaa3349adafdfede05131f47fd5ed",
-   "articulos": 44
+   "articulos": 44,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf"
   },
   {
    "id": "federal/ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
@@ -3033,7 +3556,8 @@
    "archivo": "federal/ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico.epub",
    "bytes": 6261,
    "sha256": "0a6cc103521310707c6b54bb9f046c1a8a114ef6ae17cb8f768c3110498e98fc",
-   "articulos": 13
+   "articulos": 13,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf"
   },
   {
    "id": "federal/ley-de-sociedades-de-solidaridad-social",
@@ -3046,7 +3570,8 @@
    "archivo": "federal/ley-de-sociedades-de-solidaridad-social.epub",
    "bytes": 13072,
    "sha256": "f1bed8d5cb15a73d7c0778a3ab2581d3879e16af37b5db6342a4763a68068f53",
-   "articulos": 43
+   "articulos": 43,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf"
   },
   {
    "id": "federal/ley-de-tesoreria-de-la-federacion",
@@ -3059,7 +3584,8 @@
    "archivo": "federal/ley-de-tesoreria-de-la-federacion.epub",
    "bytes": 20324,
    "sha256": "fad4d40a90e4f7b024626bfac1e9f49d3edcd146cca7e46e06ae15ee4b3b06c0",
-   "articulos": 61
+   "articulos": 61,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf"
   },
   {
    "id": "federal/ley-de-transparencia-y-de-fomento-a-la-competencia-en-el-credito-garantizado",
@@ -3072,7 +3598,8 @@
    "archivo": "federal/ley-de-transparencia-y-de-fomento-a-la-competencia-en-el-credito-garantizado.epub",
    "bytes": 16189,
    "sha256": "8012a0e643683899345c39275f990b68d0b09915b593fab02dd856a02cfed1cc",
-   "articulos": 24
+   "articulos": 24,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf"
   },
   {
    "id": "federal/ley-de-uniones-de-credito",
@@ -3085,7 +3612,8 @@
    "archivo": "federal/ley-de-uniones-de-credito.epub",
    "bytes": 65307,
    "sha256": "4af2428ed453d32a2d0196d423303bf44d97bb301293d8e934e54220ea77146a",
-   "articulos": 153
+   "articulos": 153,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf"
   },
   {
    "id": "federal/ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
@@ -3098,20 +3626,22 @@
    "archivo": "federal/ley-de-vertimientos-en-las-zonas-marinas-mexicanas.epub",
    "bytes": 23635,
    "sha256": "4cd315976fcd02db27f16e18422dd6f277986d61c18cff41870a623a3eda75b6",
-   "articulos": 69
+   "articulos": 69,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf"
   },
   {
    "id": "federal/ley-de-vivienda",
    "titulo": "Ley de Vivienda",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2026-01-15",
+   "fecha": "2026-04-29",
    "tipoFecha": "ultima_reforma",
-   "version": "20260115",
+   "version": "20260429",
    "archivo": "federal/ley-de-vivienda.epub",
-   "bytes": 35004,
-   "sha256": "e5943d8a28ce1f40a57edc68cd1fb934fd0df15761d77b35e844f88f80fbc4af",
-   "articulos": 98
+   "bytes": 36820,
+   "sha256": "46e54e1ebaa56accdf581d4bbfe1236e1e4015c840c36fc0f17c3e6cc3e33d87",
+   "articulos": 98,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf"
   },
   {
    "id": "federal/ley-de-vias-generales-de-comunicacion",
@@ -3124,7 +3654,22 @@
    "archivo": "federal/ley-de-vias-generales-de-comunicacion.epub",
    "bytes": 86379,
    "sha256": "e75a9c22ae1ebff8d192939b49b0ec6232c9923a39ae0936e4504fc3047b089f",
-   "articulos": 593
+   "articulos": 593,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf"
+  },
+  {
+   "id": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-",
+   "titulo": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2022-05-11",
+   "tipoFecha": "ultima_reforma",
+   "version": "20220511",
+   "archivo": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-.epub",
+   "bytes": 23902,
+   "sha256": "09792f5c84de3a20b15d55b3f1a2892cd8e1384b3866ef2ed93a4bc94c5c41fa",
+   "articulos": 39,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf"
   },
   {
    "id": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambi",
@@ -3150,7 +3695,8 @@
    "archivo": "federal/ley-de-la-casa-de-moneda-de-mexico.epub",
    "bytes": 10646,
    "sha256": "2fbe8d5e0181d89616cc3d20525455149adef7184705b00e2b5d45ae51bc853c",
-   "articulos": 17
+   "articulos": 17,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf"
   },
   {
    "id": "federal/ley-de-la-comision-nacional-bancaria-y-de-valores",
@@ -3163,33 +3709,36 @@
    "archivo": "federal/ley-de-la-comision-nacional-bancaria-y-de-valores.epub",
    "bytes": 29976,
    "sha256": "1a6f76dafce6e3ca7b127937b7c3f90ecfd28908654ef6d4d834284b870cc127",
-   "articulos": 31
+   "articulos": 31,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf"
   },
   {
    "id": "federal/ley-de-la-comision-nacional-de-energia",
    "titulo": "Ley de la Comisión Nacional de Energía",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-03-18",
+   "fecha": "2025-12-26",
    "tipoFecha": "publicacion",
-   "version": "20250318",
+   "version": "20251226",
    "archivo": "federal/ley-de-la-comision-nacional-de-energia.epub",
-   "bytes": 18595,
-   "sha256": "3a68749c4dfc51c783704d55e42df618a9a825d2f8f86c7c21513150be47e5e6",
-   "articulos": 30
+   "bytes": 18582,
+   "sha256": "4481137faf55721035edceb6136c919a95b25903c1d070a8e1d28ca894a230b4",
+   "articulos": 30,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf"
   },
   {
    "id": "federal/ley-de-la-comision-nacional-de-los-derechos-humanos",
    "titulo": "Ley de la Comisión Nacional de los Derechos Humanos",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "1992-06-29",
+   "fecha": "2024-04-01",
    "tipoFecha": "publicacion",
-   "version": "19920629",
+   "version": "20240401",
    "archivo": "federal/ley-de-la-comision-nacional-de-los-derechos-humanos.epub",
-   "bytes": 37607,
-   "sha256": "197676b87b4bb99f99f3d0c8e43282eb86c17adbba858518a6078ffd9019f2ec",
-   "articulos": 86
+   "bytes": 37547,
+   "sha256": "d0639431873d4d3eaa78b202a1884a7605bb5a8f5254731993346c863903798b",
+   "articulos": 86,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf"
   },
   {
    "id": "federal/ley-de-la-economia-social-y-solidaria",
@@ -3202,7 +3751,8 @@
    "archivo": "federal/ley-de-la-economia-social-y-solidaria.epub",
    "bytes": 22819,
    "sha256": "36a9d5ffd7055e87220ef79bbe100db82813a09461a931d6b93bd77832fedcbe",
-   "articulos": 59
+   "articulos": 59,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf"
   },
   {
    "id": "federal/ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
@@ -3215,7 +3765,8 @@
    "archivo": "federal/ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad.epub",
    "bytes": 50228,
    "sha256": "e4ec3581046e531012ed658fa23252d7d46e43d96c0272677dd9d2ccf3e6b7e1",
-   "articulos": 105
+   "articulos": 105,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf"
   },
   {
    "id": "federal/ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
@@ -3228,7 +3779,8 @@
    "archivo": "federal/ley-de-la-empresa-publica-del-estado-petroleos-mexicanos.epub",
    "bytes": 49474,
    "sha256": "6043dca1a6f66b3c42ececa463d960de7222a9d3ed4c8964e18e02a8c85040d4",
-   "articulos": 114
+   "articulos": 114,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf"
   },
   {
    "id": "federal/ley-de-la-fiscalia-general-de-la-republica",
@@ -3241,7 +3793,8 @@
    "archivo": "federal/ley-de-la-fiscalia-general-de-la-republica.epub",
    "bytes": 57616,
    "sha256": "79ec60256275974a7a94542d8d0d85be1061e0412cd2638a3a0f5a823ef74ed5",
-   "articulos": 102
+   "articulos": 102,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf"
   },
   {
    "id": "federal/ley-de-la-guardia-nacional",
@@ -3254,7 +3807,8 @@
    "archivo": "federal/ley-de-la-guardia-nacional.epub",
    "bytes": 29920,
    "sha256": "a77585a3627b9c9451fae50e0b842816f1c2858d5be5868a66b2942ca784b975",
-   "articulos": 66
+   "articulos": 66,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf"
   },
   {
    "id": "federal/ley-de-la-policia-federal",
@@ -3267,7 +3821,8 @@
    "archivo": "federal/ley-de-la-policia-federal.epub",
    "bytes": 29585,
    "sha256": "307fc5eac024346fb4d76625c7e1a561dc55a650acd5dc120736f6edbd5307c0",
-   "articulos": 56
+   "articulos": 56,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf"
   },
   {
    "id": "federal/ley-de-los-derechos-de-las-personas-adultas-mayores",
@@ -3280,7 +3835,8 @@
    "archivo": "federal/ley-de-los-derechos-de-las-personas-adultas-mayores.epub",
    "bytes": 31562,
    "sha256": "4e56400f71097657711ea83f36a8b570b08159dfad63719dc82faeee30079fd4",
-   "articulos": 52
+   "articulos": 52,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf"
   },
   {
    "id": "federal/ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
@@ -3293,20 +3849,22 @@
    "archivo": "federal/ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos.epub",
    "bytes": 6980,
    "sha256": "fe279b32660bdd63c9ef4f68ca410539f7ce905c379547129f42d1ba27c9db94",
-   "articulos": 8
+   "articulos": 8,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf"
   },
   {
    "id": "federal/ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
    "titulo": "Ley de los Impuestos Generales de Importación y de Exportación",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-12-29",
+   "fecha": "2026-10-13",
    "tipoFecha": "ultima_reforma",
-   "version": "20251229",
+   "version": "20261013",
    "archivo": "federal/ley-de-los-impuestos-generales-de-importacion-y-de-exportacion.epub",
-   "bytes": 2434913,
-   "sha256": "4468c556b123986aa6d2e250a9379afe55977d3187225ea73b88c85e811d640d",
-   "articulos": 3
+   "bytes": 2573050,
+   "sha256": "f9c1b673517f47ada08579c15c992f620142f8e28d5337858f3d66517e1183fc",
+   "articulos": 3,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf"
   },
   {
    "id": "federal/ley-de-los-institutos-nacionales-de-salud",
@@ -3319,7 +3877,8 @@
    "archivo": "federal/ley-de-los-institutos-nacionales-de-salud.epub",
    "bytes": 24290,
    "sha256": "821699e779c81d087220d5a7a691ebb4754cf0b7e0dc21f2d814352f2564eae6",
-   "articulos": 60
+   "articulos": 60,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf"
   },
   {
    "id": "federal/ley-de-los-sistemas-de-ahorro-para-el-retiro",
@@ -3332,7 +3891,8 @@
    "archivo": "federal/ley-de-los-sistemas-de-ahorro-para-el-retiro.epub",
    "bytes": 377796,
    "sha256": "5dd2506a3ebfa2ea9fbbfd856a28a0e477f292f6265531358ade21aef6459502",
-   "articulos": 149
+   "articulos": 149,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf"
   },
   {
    "id": "federal/ley-del-banco-de-mexico",
@@ -3345,20 +3905,22 @@
    "archivo": "federal/ley-del-banco-de-mexico.epub",
    "bytes": 35301,
    "sha256": "e73c6d30e86baa07735c287d6120d5b028a96dc36952c3872442784021107e12",
-   "articulos": 73
+   "articulos": 73,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf"
   },
   {
    "id": "federal/ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales",
    "titulo": "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2019-05-31",
+   "fecha": "2019-06-10",
    "tipoFecha": "ultima_reforma",
-   "version": "20190531",
+   "version": "20190610",
    "archivo": "federal/ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales.epub",
-   "bytes": 8398,
-   "sha256": "a948b41e114fb0b4024f9b17b63dae97a3f6f1b8cecbfdcbb27feb6427fc5b7f",
-   "articulos": 20
+   "bytes": 8385,
+   "sha256": "3fbe04c963a32481d67177b34643f22807762dd97e4a6c34942acf2cb7f1d3fe",
+   "articulos": 20,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf"
   },
   {
    "id": "federal/ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -3371,20 +3933,22 @@
    "archivo": "federal/ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo.epub",
    "bytes": 20902,
    "sha256": "b7cb6cb4aa1bbb21ab1d7d3df34c8c0449d7a8ad59d2af6a6b1d8e5e1aa500d4",
-   "articulos": 27
+   "articulos": 27,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf"
   },
   {
    "id": "federal/ley-del-impuesto-especial-sobre-produccion-y-servicios",
    "titulo": "Ley del Impuesto Especial sobre Producción y Servicios",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-11-07",
+   "fecha": "2025-12-22",
    "tipoFecha": "ultima_reforma",
-   "version": "20251107",
+   "version": "20251222",
    "archivo": "federal/ley-del-impuesto-especial-sobre-produccion-y-servicios.epub",
-   "bytes": 96784,
-   "sha256": "4d65c6700904915a1b7647535fef0df4919d17bf61c7551301245df804284076",
-   "articulos": 70
+   "bytes": 96630,
+   "sha256": "7c3dc5ed8520eef42a8f75dce3ed32f93649dfa3f7ab076883cb6185ac7eaa3c",
+   "articulos": 70,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf"
   },
   {
    "id": "federal/ley-del-impuesto-al-valor-agregado",
@@ -3397,20 +3961,22 @@
    "archivo": "federal/ley-del-impuesto-al-valor-agregado.epub",
    "bytes": 83864,
    "sha256": "01cc38ec64ce3aa90a3e46cf67cffb6284af278c51193212abe6a2008477d652",
-   "articulos": 80
+   "articulos": 80,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf"
   },
   {
    "id": "federal/ley-del-impuesto-sobre-la-renta",
    "titulo": "Ley del Impuesto sobre la Renta",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2024-04-01",
+   "fecha": "2026-11-13",
    "tipoFecha": "ultima_reforma",
-   "version": "20240401",
+   "version": "20261113",
    "archivo": "federal/ley-del-impuesto-sobre-la-renta.epub",
-   "bytes": 497257,
-   "sha256": "097f2df40b7f39dc31f1b95a3afb506bd39189c53fc2bdceb826756b2062bbc3",
-   "articulos": 242
+   "bytes": 498970,
+   "sha256": "448dec441f820fd79525ddbb10ae62f924a3225a080973d0da0141faf10f57e0",
+   "articulos": 242,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf"
   },
   {
    "id": "federal/ley-del-instituto-mexicano-de-la-juventud",
@@ -3423,7 +3989,8 @@
    "archivo": "federal/ley-del-instituto-mexicano-de-la-juventud.epub",
    "bytes": 14777,
    "sha256": "53ac1e577a6376c3e6f24c342f2350d55547bf1751e833576671aa290c9b4ace",
-   "articulos": 20
+   "articulos": 20,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf"
   },
   {
    "id": "federal/ley-del-instituto-nacional-de-los-pueblos-indigenas",
@@ -3436,20 +4003,22 @@
    "archivo": "federal/ley-del-instituto-nacional-de-los-pueblos-indigenas.epub",
    "bytes": 17689,
    "sha256": "0f33e2adf838bfad18cbe7838bc3422d81242c7219eda899e5e399e8a24048bd",
-   "articulos": 30
+   "articulos": 30,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf"
   },
   {
    "id": "federal/ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
    "titulo": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-11-14",
+   "fecha": "2026-01-15",
    "tipoFecha": "ultima_reforma",
-   "version": "20251114",
+   "version": "20260115",
    "archivo": "federal/ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas.epub",
-   "bytes": 81896,
-   "sha256": "154496910e3d74eb939725db21603ab994a8cd9d3586fc6b4f3761cba0453cdc",
-   "articulos": 231
+   "bytes": 82008,
+   "sha256": "b22a5a944997c780b59342cf2e2b00edecfce35ee0e11af6cbdbc2244c96808f",
+   "articulos": 231,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf"
   },
   {
    "id": "federal/ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-esta",
@@ -3462,7 +4031,8 @@
    "archivo": "federal/ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-esta.epub",
    "bytes": 253501,
    "sha256": "0f6a82fb4aba3082c183a8b6d88cba5ee367f8f7addad6e85c116726052c92b3",
-   "articulos": 260
+   "articulos": 260,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf"
   },
   {
    "id": "federal/ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -3475,7 +4045,8 @@
    "archivo": "federal/ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores.epub",
    "bytes": 68668,
    "sha256": "33d6e0e8b3be5828635698190d94d152cf762f1b2cdc1b849b0369b33c1aaf5e",
-   "articulos": 95
+   "articulos": 95,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf"
   },
   {
    "id": "federal/ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
@@ -3488,7 +4059,8 @@
    "archivo": "federal/ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores.epub",
    "bytes": 15507,
    "sha256": "89989b48c8aca5b2aefe49d0b21735c2bdfae179e35bee673c11b7f432a8a7cf",
-   "articulos": 33
+   "articulos": 33,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf"
   },
   {
    "id": "federal/ley-del-mercado-de-valores",
@@ -3501,7 +4073,8 @@
    "archivo": "federal/ley-del-mercado-de-valores.epub",
    "bytes": 198498,
    "sha256": "9afb6a4f3bcb6fc4866f7f3ff141c8cffbe696e426d6cfa6fe62d03b8fc6fe4a",
-   "articulos": 463
+   "articulos": 463,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf"
   },
   {
    "id": "federal/ley-del-registro-publico-vehicular",
@@ -3514,7 +4087,8 @@
    "archivo": "federal/ley-del-registro-publico-vehicular.epub",
    "bytes": 13886,
    "sha256": "d6fae56bff042d5a059a4ad07d3d74a3fc76e323da67402bfd41e879c5983b45",
-   "articulos": 28
+   "articulos": 28,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf"
   },
   {
    "id": "federal/ley-del-sector-electrico",
@@ -3527,7 +4101,8 @@
    "archivo": "federal/ley-del-sector-electrico.epub",
    "bytes": 62432,
    "sha256": "a90cbbedbc0d936de8b64e72201b8f9fd39996d9c7320a6f11d4eafc18a0771a",
-   "articulos": 191
+   "articulos": 191,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf"
   },
   {
    "id": "federal/ley-del-sector-hidrocarburos",
@@ -3540,7 +4115,8 @@
    "archivo": "federal/ley-del-sector-hidrocarburos.epub",
    "bytes": 62387,
    "sha256": "c54224abe543aa783484dc07b3a7b282d19862ef833050dc983cb5f23c754613",
-   "articulos": 169
+   "articulos": 169,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf"
   },
   {
    "id": "federal/ley-del-seguro-social",
@@ -3553,7 +4129,8 @@
    "archivo": "federal/ley-del-seguro-social.epub",
    "bytes": 577339,
    "sha256": "893162bdafff1074b37a965a4c886d8ccfbb23cc3ba3d57c674a23a11de1d199",
-   "articulos": 385
+   "articulos": 385,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf"
   },
   {
    "id": "federal/ley-del-servicio-exterior-mexicano",
@@ -3566,7 +4143,8 @@
    "archivo": "federal/ley-del-servicio-exterior-mexicano.epub",
    "bytes": 58286,
    "sha256": "fda2d440cc14943249e83696cd45fe10fce9b9a790e1320c2c759f2facc31799",
-   "articulos": 86
+   "articulos": 86,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf"
   },
   {
    "id": "federal/ley-del-servicio-militar",
@@ -3579,7 +4157,8 @@
    "archivo": "federal/ley-del-servicio-militar.epub",
    "bytes": 15796,
    "sha256": "7755ecb6e3191a3ec1854a290a3cb2081598ed3f2cecad3c1e776142ce5542e5",
-   "articulos": 65
+   "articulos": 65,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf"
   },
   {
    "id": "federal/ley-del-servicio-postal-mexicano",
@@ -3592,7 +4171,8 @@
    "archivo": "federal/ley-del-servicio-postal-mexicano.epub",
    "bytes": 14455,
    "sha256": "445e1945b597989db01433ebb67477ede2983c057577d10694a97c3f0cc032b9",
-   "articulos": 72
+   "articulos": 72,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf"
   },
   {
    "id": "federal/ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
@@ -3605,7 +4185,8 @@
    "archivo": "federal/ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal.epub",
    "bytes": 23271,
    "sha256": "a5c7d98582d10467f442f9031c9aaae3b35e6479f3e6202a93843b9fe5c3cf01",
-   "articulos": 81
+   "articulos": 81,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf"
   },
   {
    "id": "federal/ley-del-servicio-de-administracion-tributaria",
@@ -3618,7 +4199,8 @@
    "archivo": "federal/ley-del-servicio-de-administracion-tributaria.epub",
    "bytes": 25312,
    "sha256": "cb81003be2f58366aae443caaaaf95a76cac945e4f66929df9828634ca4b488b",
-   "articulos": 42
+   "articulos": 42,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf"
   },
   {
    "id": "federal/ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
@@ -3631,7 +4213,8 @@
    "archivo": "federal/ley-del-sistema-nacional-de-informacion-estadistica-y-geografica.epub",
    "bytes": 58650,
    "sha256": "fe4adfde467f9dfd3ae6bc35741409dcedb7d36a60503f43125acdca05d33506",
-   "articulos": 135
+   "articulos": 135,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf"
   },
   {
    "id": "federal/ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad",
@@ -3644,7 +4227,8 @@
    "archivo": "federal/ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad.epub",
    "bytes": 28833,
    "sha256": "33eb529f7140d9db47e07cf444d66303fde5f6131c00267ac5811070a3be7dba",
-   "articulos": 52
+   "articulos": 52,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf"
   },
   {
    "id": "federal/ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
@@ -3657,7 +4241,8 @@
    "archivo": "federal/ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano.epub",
    "bytes": 31813,
    "sha256": "b2aa7c8d56bf8ff05bfc5014ad19e1da437a43b713a2c69988b77a83c6ec8334",
-   "articulos": 33
+   "articulos": 33,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf"
   },
   {
    "id": "federal/ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -3670,7 +4255,8 @@
    "archivo": "federal/ley-en-materia-de-telecomunicaciones-y-radiodifusion.epub",
    "bytes": 107662,
    "sha256": "d31a0aa5d3974ad8c85e9366633452c928883d71513a53254c96506bf53a8292",
-   "articulos": 299
+   "articulos": 299,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf"
   },
   {
    "id": "federal/ley-para-conservar-la-neutralidad-del-pais",
@@ -3683,7 +4269,8 @@
    "archivo": "federal/ley-para-conservar-la-neutralidad-del-pais.epub",
    "bytes": 4860,
    "sha256": "950baf086d1ec3abe7a4c99f68da8e617d1c1d42f2a81f259af4d808ed08daf0",
-   "articulos": 4
+   "articulos": 4,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf"
   },
   {
    "id": "federal/ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
@@ -3696,7 +4283,22 @@
    "archivo": "federal/ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion.epub",
    "bytes": 5125,
    "sha256": "3ee36ac1371d47f9062dabe7392e9ac71c3e0424792208194267d0e9688c7bf1",
-   "articulos": 6
+   "articulos": 6,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf"
+  },
+  {
+   "id": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competiti",
+   "titulo": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2024-04-17",
+   "tipoFecha": "ultima_reforma",
+   "version": "20240417",
+   "archivo": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competiti.epub",
+   "bytes": 14417,
+   "sha256": "c1d58120339346fdc885c7f7d3d0f9c142685166f5ec5348675c4e09aeb2ab0e",
+   "articulos": 23,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf"
   },
   {
    "id": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitivida",
@@ -3722,7 +4324,8 @@
    "archivo": "federal/ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-pres.epub",
    "bytes": 87206,
    "sha256": "b7ccab33fc129df9b75ae3d73a91ede91bc83b7b25667539480ca5add76719f4",
-   "articulos": 149
+   "articulos": 149,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf"
   },
   {
    "id": "federal/ley-para-regular-las-agrupaciones-financieras",
@@ -3735,7 +4338,8 @@
    "archivo": "federal/ley-para-regular-las-agrupaciones-financieras.epub",
    "bytes": 84030,
    "sha256": "191e4d554aa3fdd242e70d9526efd925e22db8fa4477b35f79f0bbd5006ba69f",
-   "articulos": 193
+   "articulos": 193,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf"
   },
   {
    "id": "federal/ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -3748,7 +4352,8 @@
    "archivo": "federal/ley-para-regular-las-instituciones-de-tecnologia-financiera.epub",
    "bytes": 70492,
    "sha256": "c5a81af4c7915d1a026e75e1033ac947bff3f7b265f089d4a722e04517bc48fd",
-   "articulos": 146
+   "articulos": 146,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf"
   },
   {
    "id": "federal/ley-para-regular-las-sociedades-de-informacion-crediticia",
@@ -3761,7 +4366,8 @@
    "archivo": "federal/ley-para-regular-las-sociedades-de-informacion-crediticia.epub",
    "bytes": 44672,
    "sha256": "26628fc931289c9df0a19d73fa11e561a6bcab732fb4979b3d89a338f49ae722",
-   "articulos": 85
+   "articulos": 85,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf"
   },
   {
    "id": "federal/ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empres",
@@ -3774,7 +4380,8 @@
    "archivo": "federal/ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empres.epub",
    "bytes": 14921,
    "sha256": "4839e092dc8d6a09e066057debe63749752039ce9803148bccc48e74cce0eeb4",
-   "articulos": 26
+   "articulos": 26,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf"
   },
   {
    "id": "federal/ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas",
@@ -3787,7 +4394,22 @@
    "archivo": "federal/ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas.epub",
    "bytes": 7468,
    "sha256": "792a37ce4333072103e037b2965caa7bd12c2179499d99b9b745833c9efe5f09",
-   "articulos": 13
+   "articulos": 13,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf"
+  },
+  {
+   "id": "federal/ley-para-el-fomento-de-la-inversion-en-infraestructura-estrategica-para-el-d",
+   "titulo": "Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2026-04-09",
+   "tipoFecha": "publicacion",
+   "version": "20260409",
+   "archivo": "federal/ley-para-el-fomento-de-la-inversion-en-infraestructura-estrategica-para-el-d.epub",
+   "bytes": 40049,
+   "sha256": "1352e052b9c73d04b2a431f205ffe044a074478819c9a1b77f4022f6ba6e0d12",
+   "articulos": 153,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIIEDB.pdf"
   },
   {
    "id": "federal/ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
@@ -3800,7 +4422,8 @@
    "archivo": "federal/ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja.epub",
    "bytes": 9961,
    "sha256": "517f4cc179e3b09cf296d182ae22ab82446f2b69e64d1ff553ec36e1ea248050",
-   "articulos": 21
+   "articulos": 21,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf"
   },
   {
    "id": "federal/ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
@@ -3813,7 +4436,8 @@
    "archivo": "federal/ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico.epub",
    "bytes": 9196,
    "sha256": "744fe78aaed00245404b967c7e63039004fa159ee42b666b73777d6afaeb9fb8",
-   "articulos": 25
+   "articulos": 25,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf"
   },
   {
    "id": "federal/ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-a",
@@ -3826,7 +4450,8 @@
    "archivo": "federal/ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-a.epub",
    "bytes": 13788,
    "sha256": "14f17c7e74481aa991ff29e546a4510e83371431970d598a95e0e02a3dc2bf21",
-   "articulos": 38
+   "articulos": 38,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf"
   },
   {
    "id": "federal/ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
@@ -3839,7 +4464,8 @@
    "archivo": "federal/ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas.epub",
    "bytes": 23028,
    "sha256": "b7e4cfece774af0300099e3a71541226969e7c80b62878feb87c1b33c52b07ee",
-   "articulos": 68
+   "articulos": 68,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf"
   },
   {
    "id": "federal/ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
@@ -3852,7 +4478,22 @@
    "archivo": "federal/ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros.epub",
    "bytes": 40776,
    "sha256": "1b2255a484e31cbbd6a829ef0aad53aba407f4f6c5c68e7a007571827b6f9043",
-   "articulos": 92
+   "articulos": 92,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf"
+  },
+  {
+   "id": "federal/ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-mat",
+   "titulo": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2023-12-22",
+   "tipoFecha": "publicacion",
+   "version": "20231222",
+   "archivo": "federal/ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-mat.epub",
+   "bytes": 10658,
+   "sha256": "9e55c28b583ee57350fb90e44220da52c72634b73f5c18b84ee1d0ef5f5931d1",
+   "articulos": 14,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf"
   },
   {
    "id": "federal/ley-para-la-transparencia-prevencion-y-combate-en-materia-de-contratacion-de-pub",
@@ -3881,6 +4522,20 @@
    "articulos": 10
   },
   {
+   "id": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-",
+   "titulo": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2014-12-29",
+   "tipoFecha": "ultima_reforma",
+   "version": "20141229",
+   "archivo": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-.epub",
+   "bytes": 7842,
+   "sha256": "7772258c19d4ee1d3f04b0ce59950ad034b56a3aefc9ac470147dec0b4a0adb1",
+   "articulos": 10,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf"
+  },
+  {
    "id": "federal/ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avic",
    "titulo": "Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
    "ambito": "Federal",
@@ -3891,7 +4546,8 @@
    "archivo": "federal/ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avic.epub",
    "bytes": 9560,
    "sha256": "5927effb559d08f0fc16a197e41a193dc49317b4d019b33609cf5b10f66b336a",
-   "articulos": 14
+   "articulos": 14,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf"
   },
   {
    "id": "federal/ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
@@ -3904,7 +4560,8 @@
    "archivo": "federal/ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura.epub",
    "bytes": 10298,
    "sha256": "b82d057447b495b189485673dd084fd03cca877bd2f99b1e324ed6b2a885cd36",
-   "articulos": 16
+   "articulos": 16,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf"
   },
   {
    "id": "federal/ley-que-crea-la-universidad-autonoma-chapingo",
@@ -3917,7 +4574,8 @@
    "archivo": "federal/ley-que-crea-la-universidad-autonoma-chapingo.epub",
    "bytes": 8680,
    "sha256": "3c1ccd80c96f4fbabd9bb1f5d91b1db03444ccbf9331f22bf805e278172db62e",
-   "articulos": 16
+   "articulos": 16,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf"
   },
   {
    "id": "federal/ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea",
@@ -3930,7 +4588,22 @@
    "archivo": "federal/ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea.epub",
    "bytes": 5146,
    "sha256": "10d02b24515a89457d75b9aed1b4e588106e023cc16aa86cca0fd82ce901e2d4",
-   "articulos": 7
+   "articulos": 7,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf"
+  },
+  {
+   "id": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-",
+   "titulo": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "1972-01-12",
+   "tipoFecha": "ultima_reforma",
+   "version": "19720112",
+   "archivo": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-.epub",
+   "bytes": 7635,
+   "sha256": "e3e3a9bde545a315a39c83e43dbb19be4bed08ea86e6d285fd26b6ab3c741099",
+   "articulos": 16,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf"
   },
   {
    "id": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-la",
@@ -3972,6 +4645,34 @@
    "articulos": 12
   },
   {
+   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f",
+   "titulo": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2025-06-06",
+   "tipoFecha": "ultima_reforma",
+   "version": "20250606",
+   "archivo": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f.epub",
+   "bytes": 7630,
+   "sha256": "4a3f547fa2cd5740f11e3a7375ce1f74fec2000f3c0b90e3de9a49d4dfa535ec",
+   "articulos": 11,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf"
+  },
+  {
+   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f-2",
+   "titulo": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+   "ambito": "Federal",
+   "categoria": "Otras leyes",
+   "fecha": "2014-12-29",
+   "tipoFecha": "ultima_reforma",
+   "version": "20141229",
+   "archivo": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f-2.epub",
+   "bytes": 7346,
+   "sha256": "e19832563143b5bcfe9c1f2e3622dbbcd8aae30e68ceda7a338f8f4d2345a54e",
+   "articulos": 12,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf"
+  },
+  {
    "id": "federal/ley-que-crea-la-agencia-espacial-mexicana",
    "titulo": "Ley que crea la Agencia Espacial Mexicana",
    "ambito": "Federal",
@@ -3982,7 +4683,8 @@
    "archivo": "federal/ley-que-crea-la-agencia-espacial-mexicana.epub",
    "bytes": 10601,
    "sha256": "d1d9ae72497638b9ec2600af8fc0d29a9d1f8f2b8efa9c545202e36d3130d60c",
-   "articulos": 18
+   "articulos": 18,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf"
   },
   {
    "id": "federal/ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agric",
@@ -3995,7 +4697,8 @@
    "archivo": "federal/ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agric.epub",
    "bytes": 9335,
    "sha256": "8b5d40d74504d04275049cf9cb32132ffd000ec57736ea8833c9e6a514eb025b",
-   "articulos": 19
+   "articulos": 19,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf"
   },
   {
    "id": "federal/ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -4008,7 +4711,8 @@
    "archivo": "federal/ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico.epub",
    "bytes": 21340,
    "sha256": "8f3b93e3d3707ee755c0cf2bbff30f33d50025f08a5afa4c4e2fe5a4a8900480",
-   "articulos": 80
+   "articulos": 80,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf"
   },
   {
    "id": "federal/ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
@@ -4021,7 +4725,8 @@
    "archivo": "federal/ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica.epub",
    "bytes": 7847,
    "sha256": "4f5122575c12ba3eb405d4198fc5aac63a40f2a246fc8aad65282ad1ddb25c28",
-   "articulos": 14
+   "articulos": 14,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf"
   },
   {
    "id": "federal/reglamento-de-la-camara-de-diputados",
@@ -4034,7 +4739,8 @@
    "archivo": "federal/reglamento-de-la-camara-de-diputados.epub",
    "bytes": 92167,
    "sha256": "a801a656ec61b9cd9f6494ad5e8ec4e91fba48e89fb80b030022f02efe9df05a",
-   "articulos": 324
+   "articulos": 324,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf"
   },
   {
    "id": "federal/reglamento-del-senado-de-la-republica",
@@ -4047,7 +4753,8 @@
    "archivo": "federal/reglamento-del-senado-de-la-republica.epub",
    "bytes": 79850,
    "sha256": "8f1b6a96961e4c3dc3e07954ff4cb0e9747850011a8d51b49240dde2ea032ae9",
-   "articulos": 318
+   "articulos": 318,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf"
   },
   {
    "id": "federal/reglamento-para-el-gobierno-interior-del-congreso-general-de-los-estados-unidos-",
@@ -4060,7 +4767,8 @@
    "archivo": "federal/reglamento-para-el-gobierno-interior-del-congreso-general-de-los-estados-unidos-.epub",
    "bytes": 38531,
    "sha256": "d54543645557d1427208fab14a2b1e15daacaed4173e6ce2a06ed4a6510460cd",
-   "articulos": 214
+   "articulos": 214,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf"
   },
   {
    "id": "federal/estatuto-de-gobierno-del-distrito-federal",
@@ -4073,7 +4781,22 @@
    "archivo": "federal/estatuto-de-gobierno-del-distrito-federal.epub",
    "bytes": 58019,
    "sha256": "c1c72a8459c02197814f5d5245c41994cb94f897b32e2f0020f574aa0d6b41ff",
-   "articulos": 145
+   "articulos": 145,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf"
+  },
+  {
+   "id": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-",
+   "titulo": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+   "ambito": "Federal",
+   "categoria": "Otros ordenamientos",
+   "fecha": "1968-12-31",
+   "tipoFecha": "publicacion",
+   "version": "19681231",
+   "archivo": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-.epub",
+   "bytes": 6744,
+   "sha256": "917464c8db1132e3943be2dabe0572ada56b8dab6a23d13d5dfafb414c96a650",
+   "articulos": 2,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf"
   },
   {
    "id": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-ley-que-esta",
@@ -4099,7 +4822,8 @@
    "archivo": "federal/ordenanza-general-de-la-armada.epub",
    "bytes": 228858,
    "sha256": "715774191ee692fabeab1ad56ceefab4260d72d5f3af68f69ba9b389eff5a00f",
-   "articulos": 1868
+   "articulos": 1868,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf"
   },
   {
    "id": "federal/presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -4112,7 +4836,428 @@
    "archivo": "federal/presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026.epub",
    "bytes": 1581258,
    "sha256": "bf902a7f9651c88215118a13bf939b87c40b15015c1bb59cccb565a4d6f0341f",
-   "articulos": 39
+   "articulos": 39,
+   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf"
+  }
+ ],
+ "_fuentes": true,
+ "novedades": [
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-cinematografia",
+   "titulo": "Ley Federal de Cinematografía",
+   "tipo": "abrogada"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+   "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+   "tipo": "abrogada"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/codigo-federal-de-procedimientos-civiles",
+   "titulo": "Código Federal de Procedimientos Civiles",
+   "tipo": "abrogada"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politic",
+   "titulo": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-la",
+   "titulo": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+   "tipo": "nueva",
+   "fecha": "2018-01-19"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados",
+   "titulo": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+   "tipo": "nueva",
+   "fecha": "2019-09-30"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constituci",
+   "titulo": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-",
+   "titulo": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+   "tipo": "nueva",
+   "fecha": "1982-12-27"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de",
+   "titulo": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-polit",
+   "titulo": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f-2",
+   "titulo": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+   "tipo": "nueva",
+   "fecha": "2014-12-29"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f",
+   "titulo": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+   "tipo": "nueva",
+   "fecha": "2025-06-06"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-",
+   "titulo": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+   "tipo": "nueva",
+   "fecha": "1972-01-12"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-",
+   "titulo": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+   "tipo": "nueva",
+   "fecha": "2014-12-29"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-mat",
+   "titulo": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+   "tipo": "nueva",
+   "fecha": "2023-12-22"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competiti",
+   "titulo": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+   "tipo": "nueva",
+   "fecha": "2024-04-17"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-para-el-fomento-de-la-inversion-en-infraestructura-estrategica-para-el-d",
+   "titulo": "Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+   "tipo": "nueva",
+   "fecha": "2026-04-09"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-re",
+   "titulo": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+   "tipo": "nueva",
+   "fecha": "2021-05-20"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-tr",
+   "titulo": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-e",
+   "titulo": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+   "tipo": "nueva",
+   "fecha": "2025-11-28"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o",
+   "titulo": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+   "tipo": "nueva",
+   "fecha": "2022-04-28"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-para-el-fortalecimiento-y-armonizacion-catastral-y-registral",
+   "titulo": "Ley General para el Fortalecimiento y Armonización Catastral y Registral",
+   "tipo": "nueva",
+   "fecha": "2026-10-23"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-come",
+   "titulo": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+   "tipo": "nueva",
+   "fecha": "2025-07-16"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-pa",
+   "titulo": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenc",
+   "titulo": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+   "tipo": "nueva",
+   "fecha": "2023-05-03"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidad",
+   "titulo": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+   "tipo": "nueva",
+   "fecha": "2025-11-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apa",
+   "titulo": "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+   "tipo": "nueva",
+   "fecha": "2026-01-15"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-cine-y-el-audiovisual",
+   "titulo": "Ley Federal de Cine y el Audiovisual",
+   "tipo": "nueva",
+   "fecha": "2026-05-22"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contr",
+   "titulo": "Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+   "tipo": "nueva",
+   "fecha": "2012-04-09"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-",
+   "titulo": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+   "tipo": "nueva",
+   "fecha": "2022-05-11"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2027",
+   "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
+   "tipo": "nueva",
+   "fecha": "2027-01-01"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-economia-digital-para-pagos-digitales-y-electronicos",
+   "titulo": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
+   "tipo": "nueva",
+   "fecha": "2026-11-04"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-po",
+   "titulo": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+   "tipo": "nueva",
+   "fecha": "2025-10-16"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-",
+   "titulo": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+   "tipo": "nueva",
+   "fecha": "1968-12-31"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
+   "titulo": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+   "tipo": "reforma",
+   "fecha": "2012-02-24"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-organica-de-la-administracion-publica-federal",
+   "titulo": "Ley Orgánica de la Administración Pública Federal",
+   "tipo": "reforma",
+   "fecha": "2026-05-07"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-monetaria-de-los-estados-unidos-mexicanos",
+   "titulo": "Ley Monetaria de los Estados Unidos Mexicanos",
+   "tipo": "reforma",
+   "fecha": "2026-01-19"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espect",
+   "titulo": "Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+   "tipo": "reforma",
+   "fecha": "2016-05-27"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-turismo",
+   "titulo": "Ley General de Turismo",
+   "tipo": "reforma",
+   "fecha": "2026-11-13"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-sociedades-mercantiles",
+   "titulo": "Ley General de Sociedades Mercantiles",
+   "tipo": "reforma",
+   "fecha": "2025-12-26"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-salud",
+   "titulo": "Ley General de Salud",
+   "tipo": "reforma",
+   "fecha": "2026-01-15"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-partidos-politicos",
+   "titulo": "Ley General de Partidos Políticos",
+   "tipo": "reforma",
+   "fecha": "2023-11-24"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
+   "titulo": "Ley General de los Medios de Impugnación en Materia Electoral",
+   "tipo": "reforma",
+   "fecha": "2023-11-24"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-instituciones-y-procedimientos-electorales",
+   "titulo": "Ley General de Instituciones y Procedimientos Electorales",
+   "tipo": "reforma",
+   "fecha": "2026-06-02"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-general-de-contabilidad-gubernamental",
+   "titulo": "Ley General de Contabilidad Gubernamental",
+   "tipo": "reforma",
+   "fecha": "2026-05-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
+   "titulo": "Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+   "tipo": "reforma",
+   "fecha": "2023-03-27"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-del-trabajo",
+   "titulo": "Ley Federal del Trabajo",
+   "tipo": "reforma",
+   "fecha": "2026-05-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-del-impuesto-sobre-automoviles-nuevos",
+   "titulo": "Ley Federal del Impuesto sobre Automóviles Nuevos",
+   "tipo": "reforma",
+   "fecha": "2025-12-28"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-del-derecho-de-autor",
+   "titulo": "Ley Federal del Derecho de Autor",
+   "tipo": "reforma",
+   "fecha": "2026-05-14"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-revocacion-de-mandato",
+   "titulo": "Ley Federal de Revocación de Mandato",
+   "tipo": "reforma",
+   "fecha": "2022-09-26"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-proteccion-al-consumidor",
+   "titulo": "Ley Federal de Protección al Consumidor",
+   "tipo": "reforma",
+   "fecha": "2025-12-23"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-proteccion-a-la-propiedad-industrial",
+   "titulo": "Ley Federal de Protección a la Propiedad Industrial",
+   "tipo": "reforma",
+   "fecha": "2026-11-13"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-procedimiento-contencioso-administrativo",
+   "titulo": "Ley Federal de Procedimiento Contencioso Administrativo",
+   "tipo": "reforma",
+   "fecha": "2026-06-09"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+   "titulo": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+   "tipo": "reforma",
+   "fecha": "2026-04-09"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-derechos",
+   "titulo": "Ley Federal de Derechos",
+   "tipo": "reforma",
+   "fecha": "2026-11-13"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+   "titulo": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+   "tipo": "reforma",
+   "fecha": "2026-01-15"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-del-impuesto-sobre-la-renta",
+   "titulo": "Ley del Impuesto sobre la Renta",
+   "tipo": "reforma",
+   "fecha": "2026-11-13"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-del-impuesto-especial-sobre-produccion-y-servicios",
+   "titulo": "Ley del Impuesto Especial sobre Producción y Servicios",
+   "tipo": "reforma",
+   "fecha": "2025-12-22"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales",
+   "titulo": "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
+   "tipo": "reforma",
+   "fecha": "2019-06-10"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-de-vivienda",
+   "titulo": "Ley de Vivienda",
+   "tipo": "reforma",
+   "fecha": "2026-04-29"
   }
  ]
 }
