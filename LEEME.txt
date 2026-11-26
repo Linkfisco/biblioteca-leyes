@@ -1,0 +1,48 @@
+BIBLIOTECA DE LEYES FEDERALES — EPUB
+=====================================
+
+Qué hay aquí
+- catalogo.json  -> la lista que lee la app (título, categoría, fecha, tamaño y archivo de cada ley)
+- federal/       -> 315 leyes federales en EPUB (22 MB en total; los PDF pesaban 230 MB)
+
+Cómo subirla (GitHub, gratis)
+1. Crea una cuenta en github.com y un repositorio PÚBLICO llamado, por ejemplo, "biblioteca-leyes".
+2. Lo más fácil es GitHub Desktop (desktop.github.com): clona el repositorio, copia dentro TODO
+   lo de este zip (incluida la carpeta oculta .github) y pulsa "Commit" y luego "Push".
+   Desde la página web también se puede, pero GitHub solo acepta 100 archivos por vez:
+   sube la carpeta federal en 4 tandas.
+3. Revisa que se vean catalogo.json, federal/, _herramientas/ y .github/.
+4. Tu dirección base queda así (cambia TUUSUARIO):
+   https://raw.githubusercontent.com/TUUSUARIO/biblioteca-leyes/main/
+   - Catálogo:  .../main/catalogo.json
+   - Una ley:   .../main/federal/codigo-penal-federal.epub
+   Esa dirección base es lo único que la app necesita saber.
+
+Cómo actualizar una ley después de una reforma
+- Reemplaza su .epub con el nuevo y actualiza su "fecha", "version", "bytes" y "sha256" en catalogo.json
+  (o pásame el PDF nuevo y te regreso ambos archivos listos).
+- La app compara "version": si es mayor, ofrece "Hay una reforma nueva, ¿actualizar?".
+
+Detalles de los EPUB
+- Cada artículo tiene un ancla fija (art-1, art-11-bis, art-424-ter...). Los subrayados se guardan
+  ligados al artículo, así que sobreviven a las actualizaciones.
+- Dentro de cada EPUB hay un indice.json con todos los artículos para "Ir al artículo ___".
+- Las notas de reforma ("Párrafo reformado DOF ...") aparecen en letra pequeña bajo cada párrafo.
+- Tablas: las sencillas quedan como tabla real (se puede buscar y subrayar el texto); las muy
+  complejas, y las que en el PDF ya eran imagen (como la tarifa del ISR), van como imagen nítida
+  que se puede ampliar. En total: 375 tablas y 193 imágenes en 34 leyes.
+
+ACTUALIZACIÓN AUTOMÁTICA (GitHub Actions)
+- El archivo .github/workflows/actualizar-leyes.yml hace que GitHub, cada día a las 7:17 a.m.,
+  revise la lista de leyes vigentes de la Cámara de Diputados. Si una ley tiene reforma nueva,
+  baja el PDF, lo convierte a EPUB, actualiza catalogo.json y agrega la ley a "Novedades".
+  También agrega leyes nuevas y marca las abrogadas.
+- Para probarlo: pestaña "Actions" > "Actualizar leyes" > "Run workflow".
+- Si algo falla, el aviso llega a tu correo y queda un FALLAS.txt con la lista.
+- Por seguridad, si una ley convertida sale con muchos menos artículos que antes, NO se reemplaza.
+
+INDICADORES (dólar, UDI, TIIE)
+- La app los pide directo al DOF. Como respaldo, el actualizador diario también guarda
+  indicadores.json en este repositorio con los del día.
+- Si cada enero agregas aquí los valores nuevos de UMA y salario mínimo (ver LEEME de la app),
+  la app los toma sin necesidad de publicar otra versión.
