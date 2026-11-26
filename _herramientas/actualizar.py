@@ -49,7 +49,12 @@ def leer_lista():
         pdfs = [h for h in pdfs if 'mov' not in h.lower()] or pdfs
         if not pdfs:
             continue
-        fechas = re.findall(r'(\d{2})/(\d{2})/(\d{4})', texto(trozo))
+        plano = texto(trozo)
+        # solo fechas de publicación en el DOF (no la fecha en que se abrogará, ni notificaciones)
+        fechas = re.findall(r'DOF\s*(\d{2})/(\d{2})/(\d{4})', plano)
+        if not fechas:
+            sin_abrog = re.sub(r'(?i)abrogad[oa][^\d]{0,80}\d{2}/\d{2}/\d{4}', '', plano)
+            fechas = re.findall(r'(\d{2})/(\d{2})/(\d{4})', sin_abrog)
         if not fechas:
             continue
         ultima = max(f'{y}-{m}-{d}' for d, m, y in fechas)
@@ -60,12 +65,51 @@ def leer_lista():
                 nombre = t; break
         if not nombre:
             continue
-        abrogada = 'abrogad' in trozo.lower()
+        abrogada, abroga_el = False, None
+        ma = re.search(r'(?i)abrogad[oa]', plano)
+        if ma:
+            fa = re.search(r'(\d{2})/(\d{2})/(\d{4})', plano[ma.end():ma.end() + 90])
+            cuando = f'{fa.group(3)}-{fa.group(2)}-{fa.group(1)}' if fa else None
+            if cuando and cuando > datetime.date.today().isoformat():
+                abroga_el = cuando          # se abrogará en el futuro: sigue vigente
+            else:
+                abrogada = True
         pdf = pdfs[0]
         if not pdf.lower().startswith('http'):
             pdf = BASE + pdf.lstrip('./')
-        filas.append({'nombre': nombre, 'pdf': pdf, 'fecha': ultima, 'abrogada': abrogada})
+        filas.append({'nombre': nombre, 'pdf': pdf, 'fecha': ultima, 'abrogada': abrogada, 'abroga_el': abroga_el})
     return filas
+
+
+STOP = {'de', 'la', 'las', 'el', 'los', 'y', 'del', 'para', 'en', 'a', 'que', 'por', 'e', 'con', 'al', 'o'}
+
+
+def siglas_de(nombre):
+    return ''.join(w[0] for w in norm(nombre).split() if w not in STOP).upper()
+
+
+def parecido(titulo_cat, nombre_pag):
+    """Puntaje (0 = no es la misma ley) para títulos recortados con '...' como venían en los nombres de archivo."""
+    a, b = norm(titulo_cat), norm(nombre_pag)
+    if a == b:
+        return 1000
+    if '...' not in titulo_cat and '…' not in titulo_cat:
+        return 0
+    limpio = re.sub(r'\(.*?\)', ' ', titulo_cat)
+    partes = [norm(p) for p in re.split(r'\.\.\.|…', limpio) if norm(p)]
+    if not partes or len(partes[0]) < 25 or not b.startswith(partes[0]):
+        return 0
+    pos = len(partes[0])
+    for p in partes[1:]:
+        if re.fullmatch(r'[a-z]{2,5}', p):            # siglas sueltas: AIF, BID
+            if p.upper() not in siglas_de(nombre_pag) and p not in b.split():
+                return 0
+            continue
+        i = b.find(p, pos)
+        if i < 0:
+            return 0
+        pos = i + len(p)
+    return len(partes[0])
 
 
 def categoria(t):
@@ -121,16 +165,46 @@ def main():
         sys.exit('La página trae muy pocas leyes; puede que haya cambiado su formato. No toco nada.')
 
     hoy = datetime.date.today().isoformat()
-    cambios, nuevas, sin_par, fallas = [], [], [], []
+    cambios, nuevas, sin_par, fallas, reparado = [], [], [], [], []
+
+    def quitar_ley(x):
+        reparado.append(x['id'])
+        cat['leyes'].remove(x)
+        ruta = os.path.join(RAIZ, x['archivo'])
+        if os.path.exists(ruta) and not any(y['archivo'] == x['archivo'] for y in cat['leyes']):
+            os.remove(ruta)
     vistos = set()
+    sin_fuente = [l for l in cat['leyes'] if not l.get('fuente')]
+    hoy_iso = datetime.date.today().isoformat()
+    reemplazadas = set()
     for f in filas:
         l = por_fuente.get(f['pdf']) or por_nombre.get(norm(f['nombre']))
+        # títulos recortados: buscar el más parecido entre los que aún no tienen fuente
+        cand = max(sin_fuente, key=lambda x: parecido(x['titulo'], f['nombre']), default=None)
+        if cand is not None and parecido(cand['titulo'], f['nombre']) > 0:
+            if l is not None and l is not cand:
+                # REPARACIÓN: ya existe otra entrada con esta fuente (se creó como 'nueva' por error).
+                # Se queda la nueva (tiene el título completo) y se borra la recortada.
+                reemplazadas.add(l['id'])
+                quitar_ley(cand)
+                sin_fuente.remove(cand)
+            elif l is None:
+                l = cand; sin_fuente.remove(cand)
         if l is None:
             if f['abrogada']:
                 continue
             sin_par.append(f); continue
         vistos.add(l['id'])
         l['fuente'] = f['pdf']
+        # fecha imposible (en el futuro) por una versión anterior del actualizador
+        if l.get('fecha', '') > hoy_iso:
+            l['fecha'] = f['fecha']; l['version'] = f['fecha'].replace('-', '')
+        if f['abroga_el']:
+            l['abrogaEl'] = f['abroga_el']
+        else:
+            l.pop('abrogaEl', None)
+        if not f['abrogada'] and l.get('abrogada'):
+            l.pop('abrogada'); reparado.append(l['id'])      # se había marcado mal
         if f['abrogada'] and not l.get('abrogada'):
             l['abrogada'] = True; cambios.append((l, 'abrogada'))
             continue
@@ -159,6 +233,17 @@ def main():
         return
 
     novedades = cat.get('novedades', [])
+    ids_ok = {x['id'] for x in cat['leyes']}
+    abrog = {x['id'] for x in cat['leyes'] if x.get('abrogada')}
+    novedades = [n for n in novedades if n['id'] in ids_ok
+                 and not (n['tipo'] == 'nueva' and n['id'] in reemplazadas)
+                 and not (n['tipo'] == 'abrogada' and n['id'] not in abrog)]
+    fechas_ok = {x['id']: x['fecha'] for x in cat['leyes']}
+    for n in novedades:
+        if n.get('fecha', '') > hoy:
+            n['fecha'] = fechas_ok.get(n['id'], hoy)
+    if reparado:
+        print(f'Reparadas {len(reparado)} entradas del catálogo')
     trabajo = [(c[0], c[2]) for c in cambios if c[1] == 'reforma'] + nuevas
     for l, f in trabajo:
         try:
@@ -202,7 +287,7 @@ def main():
              'Leyes Reglamentarias', 'Otras leyes', 'Reglamentos', 'Otros ordenamientos']
     cat['leyes'].sort(key=lambda x: (orden.index(x['categoria']) if x['categoria'] in orden else 99, x['titulo']))
     cat['categorias'] = [c for c in orden if any(x['categoria'] == c for x in cat['leyes'])]
-    hubo = bool(trabajo) or any(c[1] == 'abrogada' for c in cambios)
+    hubo = bool(trabajo) or any(c[1] == 'abrogada' for c in cambios) or bool(reparado)
     if not hubo and not fallas and all(l.get('fuente') for l in cat['leyes'] if l['id'] in vistos) and cat.get('_fuentes'):
         print('Sin cambios.'); return
     cat['_fuentes'] = True
