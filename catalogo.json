@@ -60,7 +60,7 @@
    "sha256": "70e7ff059a0b576a4ec82e06347ac1311ccd8af0dcdcd28d54813ef86a66e8d0",
    "articulos": 631,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
-   "abrogada": true
+   "abrogaEl": "2027-04-01"
   },
   {
    "id": "federal/codigo-fiscal-de-la-federacion",
@@ -805,19 +805,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf"
   },
   {
-   "id": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida",
-   "titulo": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por...",
-   "ambito": "Federal",
-   "categoria": "Leyes Generales",
-   "fecha": "2025-07-16",
-   "tipoFecha": "ultima_reforma",
-   "version": "20250716",
-   "archivo": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida.epub",
-   "bytes": 69000,
-   "sha256": "36ab2afaefc67eba3faf8e7be21e9d22fbb8301f986b80dcca056b21037a9a9e",
-   "articulos": 192
-  },
-  {
    "id": "federal/ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
    "titulo": "Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
    "ambito": "Federal",
@@ -846,19 +833,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf"
   },
   {
-   "id": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro",
-   "titulo": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro...",
-   "ambito": "Federal",
-   "categoria": "Leyes Generales",
-   "fecha": "2021-05-20",
-   "tipoFecha": "ultima_reforma",
-   "version": "20210520",
-   "archivo": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro.epub",
-   "bytes": 24826,
-   "sha256": "5901f519516dfb6360cb589942adf5a836e1de9fe4f547416d99c05e93608168",
-   "articulos": 49
-  },
-  {
    "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o",
    "titulo": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
    "ambito": "Federal",
@@ -871,19 +845,6 @@
    "sha256": "242622ca766239fb73ac96bf23b8dbdf5d67d9f4567661e98ba20b43c07710a4",
    "articulos": 97,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf"
-  },
-  {
-   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-pen",
-   "titulo": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles...",
-   "ambito": "Federal",
-   "categoria": "Leyes Generales",
-   "fecha": "2022-04-28",
-   "tipoFecha": "ultima_reforma",
-   "version": "20220428",
-   "archivo": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-pen.epub",
-   "bytes": 33888,
-   "sha256": "9a8ae3d7e58410cf7bf56f23a6e100a7297c2d0694c26b1aa14467ece7a66f8c",
-   "articulos": 97
   },
   {
    "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-e",
@@ -900,19 +861,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf"
   },
   {
-   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extor",
-   "titulo": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión...",
-   "ambito": "Federal",
-   "categoria": "Leyes Generales",
-   "fecha": "2025-11-28",
-   "tipoFecha": "publicacion",
-   "version": "20251128",
-   "archivo": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extor.epub",
-   "bytes": 18417,
-   "sha256": "6e728a4635a69076cf4e67fb77655a05e4be2b82b4bed0788fb4127cdb817012",
-   "articulos": 45
-  },
-  {
    "id": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-tr",
    "titulo": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
    "ambito": "Federal",
@@ -925,19 +873,6 @@
    "sha256": "5c6df13c0d14d1433271b16a779744306b04d7f4bbca89b9efa2b064ecdfd009",
    "articulos": 127,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf"
-  },
-  {
-   "id": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-",
-   "titulo": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y...",
-   "ambito": "Federal",
-   "categoria": "Leyes Generales",
-   "fecha": "2025-11-14",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251114",
-   "archivo": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-.epub",
-   "bytes": 54427,
-   "sha256": "53e8deea47ff0721d5e9d9388dcfbe3aaf142aa65e530d29190f9301ecfcd280",
-   "articulos": 127
   },
   {
    "id": "federal/ley-general-para-el-control-del-tabaco",
@@ -1224,12 +1159,12 @@
    "titulo": "Ley Federal de Cinematografía",
    "ambito": "Federal",
    "categoria": "Leyes Federales",
-   "fecha": "2021-03-22",
+   "fecha": "2026-05-22",
    "tipoFecha": "ultima_reforma",
-   "version": "20210322",
+   "version": "20260522",
    "archivo": "federal/ley-federal-de-cinematografia.epub",
-   "bytes": 25692,
-   "sha256": "790d0fda3f68600b2057418a6ad6e71f675f871306533f5a4ac24f8767dfe902",
+   "bytes": 25668,
+   "sha256": "0bc3c68f822d495c58c5d06f6aa5f0a23986b69d0214b6b791890e37854ded9f",
    "articulos": 58,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
    "abrogada": true
@@ -1473,19 +1408,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf"
   },
   {
-   "id": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-i",
-   "titulo": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y...",
-   "ambito": "Federal",
-   "categoria": "Leyes Federales",
-   "fecha": "2025-11-14",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251114",
-   "archivo": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-i.epub",
-   "bytes": 20573,
-   "sha256": "57e3c074ae0c96c7a536bff9360008508fa0af83b0e352b0dcf93eb6a7b08540",
-   "articulos": 75
-  },
-  {
    "id": "federal/ley-federal-de-remuneraciones-de-los-servidores-publicos",
    "titulo": "Ley Federal de Remuneraciones de los Servidores Públicos",
    "ambito": "Federal",
@@ -1654,19 +1576,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf"
   },
   {
-   "id": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartad",
-   "titulo": "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del...",
-   "ambito": "Federal",
-   "categoria": "Leyes Federales",
-   "fecha": "2026-01-15",
-   "tipoFecha": "ultima_reforma",
-   "version": "20260115",
-   "archivo": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartad.epub",
-   "bytes": 48682,
-   "sha256": "a712b76624f4bd0f2bdc014cc823fffc3d89761acabde5f746bd5f537e87b5ed",
-   "articulos": 177
-  },
-  {
    "id": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apa",
    "titulo": "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
    "ambito": "Federal",
@@ -1779,19 +1688,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf"
   },
   {
-   "id": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciale",
-   "titulo": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y...",
-   "ambito": "Federal",
-   "categoria": "Leyes Federales",
-   "fecha": "2023-05-03",
-   "tipoFecha": "ultima_reforma",
-   "version": "20230503",
-   "archivo": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciale.epub",
-   "bytes": 19673,
-   "sha256": "e2c52a3725e893796d14f4f8108788976712961758857856f195b11c001defd5",
-   "articulos": 31
-  },
-  {
    "id": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-pa",
    "titulo": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
    "ambito": "Federal",
@@ -1804,19 +1700,6 @@
    "sha256": "b2b68b08f9277b85aad7dd15abe1b614d0b231742867bc4358c316e05dbebbed",
    "articulos": 77,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf"
-  },
-  {
-   "id": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-l",
-   "titulo": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la...",
-   "ambito": "Federal",
-   "categoria": "Leyes Federales",
-   "fecha": "2025-11-14",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251114",
-   "archivo": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-l.epub",
-   "bytes": 323495,
-   "sha256": "a1bb1dfb1a6018d4d470b287374b7da70e0f184b0ec231f88f60b453198ce361",
-   "articulos": 77
   },
   {
    "id": "federal/ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
@@ -2211,19 +2094,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf"
   },
   {
-   "id": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-",
-   "titulo": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B del Artículo 123 de la Constitución...",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "2021-07-31",
-   "tipoFecha": "ultima_reforma",
-   "version": "20210731",
-   "archivo": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-.epub",
-   "bytes": 18563,
-   "sha256": "46aee9096612886a0cf5a1f8bff562841949d120bf65e74e077314306d7cb3cd",
-   "articulos": 25
-  },
-  {
    "id": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de",
    "titulo": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
    "ambito": "Federal",
@@ -2236,19 +2106,6 @@
    "sha256": "59bf9975f22b16908c438c11a3eeb495746115215b077dd69104d1080b88b672",
    "articulos": 25,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf"
-  },
-  {
-   "id": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-que-",
-   "titulo": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional en lo que se refiere...",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "1982-12-27",
-   "tipoFecha": "publicacion",
-   "version": "19821227",
-   "archivo": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-que-.epub",
-   "bytes": 5023,
-   "sha256": "c37760e8d7879ce0cf2f55cea2b61797d4ead14ab3e55899783dc0a51a22e328",
-   "articulos": 2
   },
   {
    "id": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-",
@@ -2277,32 +2134,6 @@
    "sha256": "84cab1d5a1a930432a93464ca44634ae526df2029f45329df7a467553534259f",
    "articulos": 26,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf"
-  },
-  {
-   "id": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-politica",
-   "titulo": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política...",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "2025-11-14",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251114",
-   "archivo": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-politica.epub",
-   "bytes": 9699,
-   "sha256": "aedc3adac1819a6c6bbd6309ac7779f1d895ad4d6e1aff869eafc742b11ffef2",
-   "articulos": 26
-  },
-  {
-   "id": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-p",
-   "titulo": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política ...",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "2025-11-14",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251114",
-   "archivo": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-p.epub",
-   "bytes": 30383,
-   "sha256": "89cd8ae9234d42da9ea04bcfea7e301ea087763eac6e6bbc84d85240d2e34125",
-   "articulos": 74
   },
   {
    "id": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constituci",
@@ -2347,19 +2178,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf"
   },
   {
-   "id": "federal/ley-reglamentaria-del-articulo-3o-en-materia-de-mejora-continua-de-la-educacion",
-   "titulo": "Ley Reglamentaria del Artículo 3o..., en materia de Mejora Continua de la Educación",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "2019-09-30",
-   "tipoFecha": "publicacion",
-   "version": "20190930",
-   "archivo": "federal/ley-reglamentaria-del-articulo-3o-en-materia-de-mejora-continua-de-la-educacion.epub",
-   "bytes": 19281,
-   "sha256": "3ab533f5eaf27f98c33dabbe8899b161f8fe38a607c69d3b944a29c405fb942e",
-   "articulos": 69
-  },
-  {
    "id": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-la",
    "titulo": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
    "ambito": "Federal",
@@ -2372,19 +2190,6 @@
    "sha256": "4a2c49cf3652ba3a0ec55225d7e5bb26d3bad82272be2e1862be99dd849c2123",
    "articulos": 73,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf"
-  },
-  {
-   "id": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-pr",
-   "titulo": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones...",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "2018-01-19",
-   "tipoFecha": "ultima_reforma",
-   "version": "20180119",
-   "archivo": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-pr.epub",
-   "bytes": 20364,
-   "sha256": "bdd95c208baebc323acab3ab39e90dc3a92bee5559217af7ddd1dde3c0569bc6",
-   "articulos": 73
   },
   {
    "id": "federal/ley-reglamentaria-del-servicio-ferroviario",
@@ -2413,19 +2218,6 @@
    "sha256": "eabe0bb2e66d42b7443880d91d9aeb8db0458f8cd17e76bf3a30f1ae9144114b",
    "articulos": 43,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf"
-  },
-  {
-   "id": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-en-materia-del-derecho-de-repl",
-   "titulo": "Ley Reglamentaria del artículo 6o., párrafo primero,... en materia del Derecho de Réplica",
-   "ambito": "Federal",
-   "categoria": "Leyes Reglamentarias",
-   "fecha": "2025-11-14",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251114",
-   "archivo": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-en-materia-del-derecho-de-repl.epub",
-   "bytes": 15888,
-   "sha256": "a25af8b7609685c373ed97438eee020656d6ee0361165b91a4b9f4e936d1049c",
-   "articulos": 43
   },
   {
    "id": "federal/ley-aduanera",
@@ -2607,19 +2399,6 @@
    "sha256": "a6979cb34d50b9d4c9bcf4d6837ade5f5eb04f3ff1b30ee2d31fb74acf4db256",
    "articulos": 273,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf"
-  },
-  {
-   "id": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politi",
-   "titulo": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política...",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2025-10-16",
-   "tipoFecha": "ultima_reforma",
-   "version": "20251016",
-   "archivo": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politi.epub",
-   "bytes": 104474,
-   "sha256": "079513a5c2e70feb6da1b81c0cd4bc9d5457fc42285471a54c31f4de99b1c167",
-   "articulos": 273
   },
   {
    "id": "federal/ley-de-ascensos-de-la-armada-de-mexico",
@@ -3172,24 +2951,24 @@
    "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2025-11-07",
+   "fecha": "2026-11-13",
    "tipoFecha": "publicacion",
-   "version": "20251107",
+   "version": "20261113",
    "archivo": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026.epub",
-   "bytes": 48861,
-   "sha256": "3a97bdaa028eb1c2b497e72ca011c7375d6c27668e12ff2302a95daf42c2e682",
+   "bytes": 48803,
+   "sha256": "f74047ef4691e688185432f868bb2d16a1a1483cf268b2f04413891e87ec1855",
    "articulos": 35,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
-   "abrogada": true
+   "abrogaEl": "2027-01-01"
   },
   {
    "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2027",
    "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
    "ambito": "Federal",
    "categoria": "Otras leyes",
-   "fecha": "2027-01-01",
+   "fecha": "2026-11-13",
    "tipoFecha": "publicacion",
-   "version": "20270101",
+   "version": "20261113",
    "archivo": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2027.epub",
    "bytes": 52462,
    "sha256": "b6e601965a76e463aeae377206972a5b5689a6ae9ef576e8a3598481f35f6ce6",
@@ -3419,19 +3198,6 @@
    "sha256": "8084791637c8026b1f669c4ee75757e2023ba37fc9215b8cfd8cfd03096491f3",
    "articulos": 9,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf"
-  },
-  {
-   "id": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contraven",
-   "titulo": "Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el...",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2012-04-09",
-   "tipoFecha": "ultima_reforma",
-   "version": "20120409",
-   "archivo": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contraven.epub",
-   "bytes": 6701,
-   "sha256": "e279ae620166788dc2c53138bcdcf32e919682dd25e525ad2bdd8d00385fa975",
-   "articulos": 9
   },
   {
    "id": "federal/ley-de-proteccion-del-espacio-aereo-mexicano",
@@ -3670,19 +3436,6 @@
    "sha256": "09792f5c84de3a20b15d55b3f1a2892cd8e1384b3866ef2ed93a4bc94c5c41fa",
    "articulos": 39,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf"
-  },
-  {
-   "id": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambi",
-   "titulo": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del...",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2022-05-11",
-   "tipoFecha": "ultima_reforma",
-   "version": "20220511",
-   "archivo": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambi.epub",
-   "bytes": 23896,
-   "sha256": "a52567e798d448866f31d6643c77f05ebb8621892bf11aeb35de1ced9993a017",
-   "articulos": 39
   },
   {
    "id": "federal/ley-de-la-casa-de-moneda-de-mexico",
@@ -4301,19 +4054,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf"
   },
   {
-   "id": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitivida",
-   "titulo": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad...",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2024-04-17",
-   "tipoFecha": "ultima_reforma",
-   "version": "20240417",
-   "archivo": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitivida.epub",
-   "bytes": 14398,
-   "sha256": "7de3bc81134b920d9d532635c31128efcd544b243d172b7704043eecd32bdaa2",
-   "articulos": 23
-  },
-  {
    "id": "federal/ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-pres",
    "titulo": "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
    "ambito": "Federal",
@@ -4496,32 +4236,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf"
   },
   {
-   "id": "federal/ley-para-la-transparencia-prevencion-y-combate-en-materia-de-contratacion-de-pub",
-   "titulo": "Ley para la Transparencia, Prevención y Combate... en Materia de Contratación de Publicidad",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2021-06-03",
-   "tipoFecha": "publicacion",
-   "version": "20210603",
-   "archivo": "federal/ley-para-la-transparencia-prevencion-y-combate-en-materia-de-contratacion-de-pub.epub",
-   "bytes": 10631,
-   "sha256": "4738411b4f5fc954a63e4ccc3451decb97ec3243ffb8bf6a132e922a67317687",
-   "articulos": 14
-  },
-  {
-   "id": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desa",
-   "titulo": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Car...",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2014-12-29",
-   "tipoFecha": "ultima_reforma",
-   "version": "20141229",
-   "archivo": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desa.epub",
-   "bytes": 7822,
-   "sha256": "87b320102bd8b06230dad64acb08280fcaa8cae45bbef011f57519d4bf8d297f",
-   "articulos": 10
-  },
-  {
    "id": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-",
    "titulo": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
    "ambito": "Federal",
@@ -4604,45 +4318,6 @@
    "sha256": "e3e3a9bde545a315a39c83e43dbb19be4bed08ea86e6d285fd26b6ab3c741099",
    "articulos": 16,
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf"
-  },
-  {
-   "id": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-la",
-   "titulo": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás...",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "1972-01-12",
-   "tipoFecha": "ultima_reforma",
-   "version": "19720112",
-   "archivo": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-la.epub",
-   "bytes": 7435,
-   "sha256": "48671bda27fb7075533c5512ad7b2792e43bf18453eb178523f4a04d72cb983c",
-   "articulos": 16
-  },
-  {
-   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-c-1",
-   "titulo": "Ley que Establece Bases para la Ejecución en México por el Poder Ejecutivo... Convenio...AIF",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2025-06-06",
-   "tipoFecha": "ultima_reforma",
-   "version": "20250606",
-   "archivo": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-c-1.epub",
-   "bytes": 7574,
-   "sha256": "bfcc9e39b3bf56bc9ac37ea1850a5a33f973fa044c19122e17f06e9bb9055d12",
-   "articulos": 11
-  },
-  {
-   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-c-2",
-   "titulo": "Ley que Establece Bases para la Ejecución en México por el Poder Ejecutivo... Convenio...BID",
-   "ambito": "Federal",
-   "categoria": "Otras leyes",
-   "fecha": "2014-12-29",
-   "tipoFecha": "ultima_reforma",
-   "version": "20141229",
-   "archivo": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-c-2.epub",
-   "bytes": 7288,
-   "sha256": "1f37b3f281bd2f4760603c1165ced3ed617c37158182afaf666a45e21feac31b",
-   "articulos": 12
   },
   {
    "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f",
@@ -4799,19 +4474,6 @@
    "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf"
   },
   {
-   "id": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-ley-que-esta",
-   "titulo": "Impuesto sobre Servicios Expresamente declarados de Interés Público (Ley que establece)...",
-   "ambito": "Federal",
-   "categoria": "Otros ordenamientos",
-   "fecha": "1968-12-31",
-   "tipoFecha": "publicacion",
-   "version": "19681231",
-   "archivo": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-ley-que-esta.epub",
-   "bytes": 6447,
-   "sha256": "e5a3dda96feb1126e139b0cee19365f04e7b6a4b26f55c7487fbc7b0105a186d",
-   "articulos": 2
-  },
-  {
    "id": "federal/ordenanza-general-de-la-armada",
    "titulo": "Ordenanza General de la Armada",
    "ambito": "Federal",
@@ -4846,110 +4508,21 @@
    "detectado": "2026-11-26",
    "id": "federal/ley-federal-de-cinematografia",
    "titulo": "Ley Federal de Cinematografía",
-   "tipo": "abrogada"
+   "tipo": "reforma",
+   "fecha": "2026-05-22"
   },
   {
    "detectado": "2026-11-26",
    "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
    "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+   "tipo": "reforma",
+   "fecha": "2026-11-13"
+  },
+  {
+   "detectado": "2026-11-26",
+   "id": "federal/ley-federal-de-cinematografia",
+   "titulo": "Ley Federal de Cinematografía",
    "tipo": "abrogada"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/codigo-federal-de-procedimientos-civiles",
-   "titulo": "Código Federal de Procedimientos Civiles",
-   "tipo": "abrogada"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politic",
-   "titulo": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-la",
-   "titulo": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
-   "tipo": "nueva",
-   "fecha": "2018-01-19"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados",
-   "titulo": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
-   "tipo": "nueva",
-   "fecha": "2019-09-30"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constituci",
-   "titulo": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-",
-   "titulo": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
-   "tipo": "nueva",
-   "fecha": "1982-12-27"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de",
-   "titulo": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-polit",
-   "titulo": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f-2",
-   "titulo": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
-   "tipo": "nueva",
-   "fecha": "2014-12-29"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-f",
-   "titulo": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
-   "tipo": "nueva",
-   "fecha": "2025-06-06"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-",
-   "titulo": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
-   "tipo": "nueva",
-   "fecha": "1972-01-12"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-",
-   "titulo": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
-   "tipo": "nueva",
-   "fecha": "2014-12-29"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-mat",
-   "titulo": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
-   "tipo": "nueva",
-   "fecha": "2023-12-22"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competiti",
-   "titulo": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
-   "tipo": "nueva",
-   "fecha": "2024-04-17"
   },
   {
    "detectado": "2026-11-26",
@@ -4960,73 +4533,10 @@
   },
   {
    "detectado": "2026-11-26",
-   "id": "federal/ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-re",
-   "titulo": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
-   "tipo": "nueva",
-   "fecha": "2021-05-20"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-tr",
-   "titulo": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-e",
-   "titulo": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
-   "tipo": "nueva",
-   "fecha": "2025-11-28"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o",
-   "titulo": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
-   "tipo": "nueva",
-   "fecha": "2022-04-28"
-  },
-  {
-   "detectado": "2026-11-26",
    "id": "federal/ley-general-para-el-fortalecimiento-y-armonizacion-catastral-y-registral",
    "titulo": "Ley General para el Fortalecimiento y Armonización Catastral y Registral",
    "tipo": "nueva",
    "fecha": "2026-10-23"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-come",
-   "titulo": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
-   "tipo": "nueva",
-   "fecha": "2025-07-16"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-pa",
-   "titulo": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenc",
-   "titulo": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
-   "tipo": "nueva",
-   "fecha": "2023-05-03"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidad",
-   "titulo": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
-   "tipo": "nueva",
-   "fecha": "2025-11-14"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apa",
-   "titulo": "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
-   "tipo": "nueva",
-   "fecha": "2026-01-15"
   },
   {
    "detectado": "2026-11-26",
@@ -5037,24 +4547,10 @@
   },
   {
    "detectado": "2026-11-26",
-   "id": "federal/ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contr",
-   "titulo": "Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
-   "tipo": "nueva",
-   "fecha": "2012-04-09"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-",
-   "titulo": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-   "tipo": "nueva",
-   "fecha": "2022-05-11"
-  },
-  {
-   "detectado": "2026-11-26",
    "id": "federal/ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2027",
    "titulo": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
    "tipo": "nueva",
-   "fecha": "2027-01-01"
+   "fecha": "2026-11-13"
   },
   {
    "detectado": "2026-11-26",
@@ -5062,20 +4558,6 @@
    "titulo": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
    "tipo": "nueva",
    "fecha": "2026-11-04"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-po",
-   "titulo": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
-   "tipo": "nueva",
-   "fecha": "2025-10-16"
-  },
-  {
-   "detectado": "2026-11-26",
-   "id": "federal/impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-",
-   "titulo": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
-   "tipo": "nueva",
-   "fecha": "1968-12-31"
   },
   {
    "detectado": "2026-11-26",
